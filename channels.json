@@ -1,0 +1,2683 @@
+{
+    "5StarMax": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(5MAXHD-3324.dfw.1080)/index.m3u8",
+        "key1": "31ecff7dbec0690e0a3d1b96c9000521:b1cd73b2bf1c9fdbce1f194c20b25e06",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "AandE": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(AandEHD-1382.dfw.1080)/index.m3u8",
+        "key1": "000788d4f064933b7c1304069155468a:80516601a229189b1e3100dcece9ad9d",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ABC-KTRK": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(KTRK-8649.dfw.720)/index.m3u8 ",
+        "key1": "533ebba5a2764e182ca9338504c48647:8d4d298514cf9a6559266bc4056888b2",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ACCN": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ACCNHD-3911.dfw.720)/index.m3u8",
+        "key1": "527d6e3b4aa42654e7c56478f8356405:38fa5879268b4db557132c29865ef5d0",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "AccuWeather": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ACCUHD-6067.dfw.1080)/index.m3u8",
+        "key1": "59705f95c233bcff98ddd90225a97406:aa0de6cd69743fca28244950ca3aa98e",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ActionMax": {
+        "url": "https://dfwlive-v1-c2p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(AMAXHD-4067.dfw.1080)/index.m3u8 ",
+        "key1": "1470fffc6a2ddfcea6db98995691b79a:59c355414d0aae9388c00cc22b751c8c",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "AMC": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(AMCHD-4730.dfw.1080)/index.m3u8",
+        "key1": "16fb5a8c4f25e1caa8ba1acbad8cd765:a8e92474308b4c756ae73b16e15599c7",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "American-Heroes": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(AHCHD-287.dfw.1080)/index.m3u8",
+        "key1": "4863894a443e7011ebfa7f08f899818d:9e22e7c904bae6242c2fb5c961dcb878",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Animal-Planet": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(APLHD-8205.dfw.1080)/index.m3u8",
+        "key1": "3ad8a720ab07cc8464a128a7c152a0bd:a3982ffee5cccdb46f4012f3e621d33a",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Aspire": {
+        "url": "https://dfwlive-v1-c7p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ASPHD-4707.dfw.1080)/index.m3u8",
+        "key1": "415c67f50aa4247a9875d8e8c9cc3240:9be32fe88673251aa8f309dc05e618a2",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ATT-SportsNet-SouthwestHD": {
+        "url": "https://dfwlive-v1-c2p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ATSWHD-5674.dfw.720)/index.m3u8",
+        "key1": "611b3b7117ccbde9dbde617adf8f3a69:c4de0fe2976d80ce0130e27a2a397b11",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ATT-Sportnet2": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ATSWHDa-445.dfw.720)/index.m3u8",
+        "key1": "2020b2fca9fdbcefcdd3d4e635ad253e:28b159b53bed690c22474b9250661f45",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "AXS-TV": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(AXSTV-4209.dfw.1080)/index.m3u8",
+        "key1": "74418be7fb1b6a1d3c583ac41007a1a3:15b9caed04a5864bc5fb6d0217dee640",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "BabyFirst-Club": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(BABY-293.dfw.1080)/index.m3u8",
+        "key1": "343f38dcdbc8f9c1bc80965207840011:5f9a199f891678b875cd3e754569c5eb",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "BBCNews-America": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(BBCWHD-2063.dfw.1080)/index.m3u8",
+        "key1": "0acf84dfa877045d4cbc555cbf6a3eec:17aba33088240f12cbaa3ee4351f6d99",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "BBC-America": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(BBCAHD-6053.dfw.1080)/index.m3u8",
+        "key1": "109a2e7c223531986e89363e90480e25:59957b6cf08a3b7c10c863540b75468d",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "BETHD": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(BETHD-1917.dfw.1080)/index.m3u8",
+        "key1": "670013d4dbd84a4f6111eb009a02d3d6:5d9ecee5ab393c32f76ed1e7101a394b",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "BET-Her": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(BHER-330.dfw.1080)/index.m3u8",
+        "key1": "7e93e48bc44cf6615708ed4d8c51bb1f:5bc356ed54bae55d54da8dc2222c013a",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "BIG-Network": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(BIG10HD-5610.dfw.720)/index.m3u8",
+        "key1": "5de316c965eedf8ade798d317a6df14e:d63f778dfcccfc95b07c0d283b647a4d",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Bloomberg": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(BTVHD-8609.dfw.1080)/index.m3u8",
+        "key1": "4da54bc1813fb161117566321a384e07:89a8c6d274729725580e6324fc98fee8",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Boomerang": {
+        "url": "https://dfwlive-v1-c7p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(Boom-297.dfw.1080)/index.m3u8",
+        "key1": "1e32134087afbf9ba449273d210f1986:484a9dd8d1d036d14585aa9db4a99d84",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Bounce": {
+        "url": "https://dfwlive-v1-c7p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(Bounce-6171.dfw.1080)/index.m3u8",
+        "key1": "77bd0e37e51c219b502a7124d96eb56b:c19fd34d590c2020316aefa478561d2c",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Bravo": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(BRVOHD-1323.dfw.1080)/index.m3u8",
+        "key1": "3462e7ff485581ef42c69c026ad52079:05f8c6d33c664622f421d47d3af66c2a",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Cartoon-Network": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(CNeHD-8255.dfw.1080)/index.m3u8",
+        "key1": "34aa795935da0dde5007eff8a0bbabb1:c77c6a65a9ad66fa5b940c53c9f27ea9",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "CBSSN": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(CBSSNHD-5613.dfw.1080)/index.m3u8",
+        "key1": "70496b9f632529d3253b5bc408de7ef6:c9e3eb897a6427292641ca000b2e214e",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "CCheddar-News": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(CHDR-586.dfw.1080)/index.m3u8",
+        "key1": "58ad9d926aedab899b6cffc5582f100d:72c8a75c1b290067e04a7085afacb1af",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "CinemaxHD": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MAXeHD-8214.dfw.1080)/index.m3u8",
+        "key1": "364e415c9c25af6be83c98bd83dca77d:5147607fce80ceafc62583eae4ecc612",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Cinemax-Latino": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MAXLHD-3340.dfw.1080)/index.m3u8",
+        "key1": "6663ba69d95f49e62e83807ce8038f31:78608e533e38104b1a7eccc1d6e68c71",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "CleoTV": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(CLEOTV-4469.dfw.1080)/index.m3u8",
+        "key1": "7547fcde9acf58834a16694617d3df90:e175ab031b27a67eeafa2af2c6bda9d8",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "CMT": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(CMTHD-8395.dfw.1080)/index.m3u8",
+        "key1": "646f970333568de7e486c5cefef0578e:67ef7480d1e9fe003914d6fd30a59c39",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "CNBC": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(CNBCHD-1328.dfw.1080)/index.m3u8",
+        "key1": "657103623ee2cf60d37a033b95b37b56:adb27a3eb1ef25296a1f6d1d54399623",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "CNN": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(CNNHD-8249.dfw.1080)/index.m3u8",
+        "key1": "3353014c1b3478b16a81598627ed0e52:ab7f2b0b645f3dc4c67a4e8a53574b58",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "CNN-Es": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(CNNE-419.dfw.1080)/index.m3u8",
+        "key1": "52fa7fb153d56ad5d60e6b2ef61ae389:65b8797a1086d4232023742a79e2ff5f",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "CNN-International": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(CNNiHD-2597.dfw.1080)/index.m3u8",
+        "key1": "450eeef07a0cbd7680b0a892a533e1f7:26595aabf68797c6ce8a564613e69e99",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Comedy-Central": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(COMHD-3035.dfw.1080)/index.m3u8",
+        "key1": "027859ee89778c8e1593b827968bf336:0e152f7af9a1048e5d0ac6c9bbfa1938",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Cooking": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(COOKHD-6216.dfw.1080)/index.m3u8",
+        "key1": "4c19ec4bf98c53dc6c0bd4eed233582e:52df3a21df62eca828d0f6981c0d09d6",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Cozi": {
+        "url": "https://dfwlive-v1-c7p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(COZI-6170.dfw.480)/index.m3u8",
+        "key1": "1cd5086eaa65e98a1be1a193cfc905e9:112f505bd36d15bac5e74c0df72eb0c7",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "CSPAN": {
+        "url": "https://dfwlive-v1-c4p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(CSP1-350.dfw.1080)/index.m3u8",
+        "key1": "74bfe204b6d9911ed6d3c72ee3253c36:9c8684a90b135198bfc15f671e04ec27",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "CSPAN2": {
+        "url": "https://dfwlive-v1-c4p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(CSP2-351.dfw.1080)/index.m3u8",
+        "key1": "7208e2c1885d5981bd97304c7d93c795:d10a50cdf96283767235aaf720af78e4",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Daystar": {
+        "url": "https://dfwlive-v1-c7p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(DSTRHD-369.dfw.1080)/index.m3u8",
+        "key1": "223b0e4b5954e58f7dd9a23a1707a76e:cfadeb36fea9a80efe0f57f089351a01",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Destination-America": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(DESTHD-4230.dfw.1080)/index.m3u8",
+        "key1": "4de6d1e69c2660185a03ee15f17bb681:59cb7658da28911a17dc973cb86668ed",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Discovery-Family": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(DFCH-294.dfw.1080)/index.m3u8",
+        "key1": "6855bcdf5fa864103fec54ac39c3c724:e3656ee8400781ccda4563ee23f4f933",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Discovery": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(DSCHD-8238.dfw.1080)/index.m3u8",
+        "key1": "328959dc7eccbef23b3a1d39de7c749a:97e44522ebfb98e2b03018f9c3d8a37a",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "DiscoveryLife": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(DLIF-368.dfw.1080)/index.m3u8",
+        "key1": "10f54b7627e5750ea0df9d0386e8312f:f0f5371705e8793784f34aeca585d185",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Disney": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(DISeHD-8398.dfw.720)/index.m3u8",
+        "key1": "7b1fa29b06148f5eec3445b7c4dda240:64dbe9278141b60a6b68adbf0a207ef2",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "DisneyJr": {
+        "url": "https://dfwlive-v1-c7p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(DSJRHD-6055.dfw.720)/index.m3u8",
+        "key1": "3c1c48f8e8fc1913b0d650b81071e169:d7a93095436004f02807ada14f5d17c6",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "DisneyXD": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(DXDHD-8397.dfw.720)/index.m3u8",
+        "key1": "0a7afd1f1a7511e0db30d1d968a00700:fffa4d3643ea01f7ccaf72f94fb0e168",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "E": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(EHD-1593.dfw.1080)/index.m3u8",
+        "key1": "320cabb3422302348d293da074680f74:f46d816d1f247d6db06c6f4594a420b8",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "EarthX": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(EARTHX-6713.dfw.1080)/index.m3u8",
+        "key1": "1dbf4d32bbabdeed3cb34d805dcde118:d1bef60620ee8a81068d059c9365ed88",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ESPN": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(ESPNHD-1964.dfw.720)/index.m3u8",
+        "key1": "4e0b81686112c4f0882fb7fec4d3e594:97a1a6b0712358db6d2a4f4aa87ce755",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ESPN2": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ESPN2HD-1965.dfw.720)/index.m3u8",
+        "key1": "0bf6fd4ab6b479aa16433a956321c23c:119cb163699a60f91dc0c05694522dfe",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ESPN-News": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ESNHD-8235.dfw.720)/index.m3u8",
+        "key1": "406caae8d33769377463163c0ef4e89b:57827b2e42f5ca2f716f3d82add2bab6",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ESPN-U": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(ESPNUHD-2355.dfw.720)/index.m3u8",
+        "key1": "1f8f4aceaffa0e41691acae94586955b:0c54239cc17d9fff50cf3fbf8ffc03d4",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Family-Movies-Classics": {
+        "url": "https://dfwlive-v1-c2p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FMC-6477.dfw.720)/index.m3u8",
+        "key1": "0f7e9355b3ee4cec502f374b662cb452:ff04e62e6b7360f25b33ad795937fb1d",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "FM": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(FMHD-8983.dfw.1080)/index.m3u8",
+        "key1": "30c8f7babd966694e65a7138f0e75c9a:360d475919e998b550acc0abcd9cd248",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Food": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(foodHD-8278.dfw.1080)/index.m3u8",
+        "key1": "1457c5448e1a17e95c26eb356e5fd4ce:d825ed8140548cd1200d73db6f7e7977",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "FoxBusiness": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(FBNHD-1381.dfw.720)/index.m3u8",
+        "key1": "0ff1371413bef2abf2c85d686d7da3b1:86fdadac6e31950b3d03c30fbd4a07a4",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "FoxKRIV": {
+        "url": "https://dfwlive-v1-c2p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(KRIV-8650.dfw.720)/index.m3u8",
+        "key1": "76db493e617510453fcd14b7531074b8:17f2586e353f3c073eaa37d570fa9469",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "FoxNews": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FNCHD-1380.dfw.720)/index.m3u8",
+        "key1": "7b866e940225fb8a38cff597c8e03c9e:db949d6d58a2069ce66154dfe4cc433f",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "FoxSports1": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(FS1HD-8242.dfw.720)/index.m3u8",
+        "key1": "2c7e1fe88cdd7b75c3d0e8dc57366d07:5e8ba0c73ba50b0a20f600cd066429ce",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "FoxSports2": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FS2HD-5618.dfw.720)/index.m3u8",
+        "key1": "37efe1d171f52ff8d06d0ffc9ed68aeb:9f35db58000b13f8aecdc5e15420d3d4",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "FoxWeatherNow": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FOXWX-6186.dfw.720)/index.m3u8",
+        "key1": "5e1be1b0d84ad7a27760eae9e9d2e02f:163bbe01d18cf1f293e6ba086bebcd37",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Freeform": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FRFMHD-4211.dfw.720)/index.m3u8",
+        "key1": "0c5826288865eeedd7d372d1db3dd4e7:4c768b084238174c0ecf9940fe1f1d81",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Fuse": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(fuseHD-365.dfw.1080)/index.m3u8",
+        "key1": "59945d8a5883fcd54da896357f1013f4:e82c431e2666ce30e7564fa5fb3f0efa",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "FX": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FXHD-8208.dfw.720)/index.m3u8",
+        "key1": "76ae871b491c6d83fa673c366caa9a68:41e5ed35e70aa90de50e1a233c293dc0",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "FXM": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FXM-258.dfw.720)/index.m3u8",
+        "key1": "580769dc6f2ce2f6ec48af943aff0696:85736ccb6a6f1ba78b2670da33771216",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "FXX": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FXXHD-8138.dfw.720)/index.m3u8",
+        "key1": "28b9b8c8e64a41d6361c3389cffe35ff:448204d0229b0ab3a5a1ae8dc9ad3464",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "FYI": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FYIHD-1422.dfw.1080)/index.m3u8",
+        "key1": "53654351a221799fe222301f081ecb19:915d78180eacab8c9335a0256163d280",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Galavision": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(GALAHD-8031.dfw.1080)/index.m3u8",
+        "key1": "12de73ed014042fc0adc746c9b0261e4:8d2b11b892081396b89ef8bd05322126",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Golf": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(GolfHD-1324.dfw.1080)/index.m3u8",
+        "key1": "01504f5503fe1cf7fe552cf934aae729:1692586783e0cf5cc5d67080e08ee269",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Grit": {
+        "url": "https://dfwlive-v1-c7p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(GRIT-6172.dfw.1080)/index.m3u8",
+        "key1": "450bf3722ee7cfa47942bb2391bebc1d:62dc9cd48786a6387fc6f5801853ea35",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "GameShowNetwork": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(GSNHD-8987.dfw.1080)/index.m3u8",
+        "key1": "26cc885df1dbac3309baf5d52ba4cb59:ee110e10a656b7427cdc4d6f27cfdc40",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Hallmark": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(HALLHD-3771.dfw.1080)/index.m3u8",
+        "key1": "5a94fe8f7893579ddf4b8a0bf95c9887:3a159fcaaf79ee5609bc7186e43064db",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Hallmark-MoviesandMystery": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(HMMHD-3527.dfw.1080)/index.m3u8",
+        "key1": "7f8fe0393cc3765989eb2a101fa511e3:8b3e56357a707d4152a7fb25e9081839",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HBOHD-East": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(HBOeHD-1967.dfw.1080)/index.m3u8",
+        "key1": "690abe583b7570364efcc585b0cedfae:a993fe33b9bc1354e508d0c8cc1ec4af",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HBO2HD-East": {
+        "url": "https://dfwlive-v1-c2p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(HB2eHD-3778.dfw.1080)/index.m3u8",
+        "key1": "48b2a585c89a51ce5d6bdf2f0ccf941a:617120f04dc3d2894f8478190a303b54",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HBO-SignatureHD-East": {
+        "url": "https://dfwlive-v1-c2p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(HBSeHD-1786.dfw.1080)/index.m3u8",
+        "key1": "3d43910b9f93e9debe99f2d9b93ea0e4:e539ac32ab8260c0c794c9206f92c727",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HBOHD-West ": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(HBOwHD-8219.dfw.1080)/index.m3u8",
+        "key1": "11d35efe8728afce48410c3b3881301d:a64af187af32b6e191cd567d38133137",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HBO2HD-West": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(HB2wHD-3336.dfw.1080)/index.m3u8",
+        "key1": "110f1378b706fc1658dc7a731b2bf809:302db78b03fea500fef5085840c30f93",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HBOHD-Comedy": {
+        "url": "https://dfwlive-v1-c2p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(HBOCHD-4064.dfw.1080)/index.m3u8",
+        "key1": "0d1e2baf4bf76bdb32840698e65982ba:96dc4cbabe0afe4a4771b6f17efea488",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HBOFamily-EastHD": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(HBOFeHD-8973.dfw.1080)/index.m3u8",
+        "key1": "06e20b6f354885efb4f5dd46e7360192:ec765adf2b4b00356a461a8b8e621556",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HBO-Zone": {
+        "url": "https://dfwlive-v1-c7p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(HBOZHD-3779.dfw.1080)/index.m3u8",
+        "key1": "1ded83f687fdf299f3a4d88861e77eb8:6badcda8ea675dc5443bacfb6157b5fb",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HBO-Latino": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(HBOLHD-4065.dfw.1080)/index.m3u8",
+        "key1": "0a9de9b8f323e01cbc91a3495decc566:3ff7afd4cb6ebc6b9349739de750f29c",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HGTV": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.akamaized.net/Content/HLS.cps/Live/channel(HGTVHD-8244.dfw.1080)/index.m3u8",
+        "key1": "64195be0b7123643171df10dfbbdead9:480cf7eed3b9680c56f55aa4e906b9ad",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "History": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(HISTHD-1557.dfw.1080)/index.m3u8",
+        "key1": "4dd46e3d135d1abb4e53eaff3a97e9ae:cc38a3b270a4c2732d44e5a000538f7e",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HLN": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(HLNHD-6218.dfw.1080)/index.m3u8",
+        "key1": "360652c02c37f3e11c040dd3d464a0cb:e2582fbb857c879acee80ee50609800d",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "HSN": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(HSNHD-6133.dfw.1080)/index.m3u8",
+        "key1": "239e62090e8b69e43f5813e354901726:41786e6b6b2854e93470b3f9da2ab487",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "IFC": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(IFCHD-4733.dfw.1080)/index.m3u8",
+        "key1": "0f63ee099b896fa9df5e8a2f2a463b4e:a763e68fa965d819ea80d469c46db3bd",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ID": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(IDHD-6212.dfw.1080)/index.m3u8",
+        "key1": "453a732e3342ee028a7557b97c07a546:1edbcbe096693e66ff3d6ee884a9374e",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "iON": {
+        "url": "https://dfwlive-v1-c2p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(IONEHD-6056.dfw.720)/index.m3u8",
+        "key1": "357a7c3b8d94f0f93c4fc185ff70bd1a:51eabd473f98a9b880ad043535b79692",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Justice-Central": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(JCHD-8433.dfw.1080)/index.m3u8",
+        "key1": "627b9f6a5ddac1dc9d9549b4d41a7741:7a4e11cdb3825572c2ed8fa33dd7ee59",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Lifetime": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(LIFEHD-1903.dfw.1080)/index.m3u8",
+        "key1": "4c958539769fcc5d1d0ae0267004d23d:9a39c3bebd033fb545e0db6d0e42cadf",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "LMN": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(LMNHD-1949.dfw.1080)/index.m3u8",
+        "key1": "093eb8f11f1708626957ebc6d1f3ffb1:9bd6790969e4474c72baaf992b946a8a",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Logo": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(LOGOHD-1000502.dfw.1080)/index.m3u8",
+        "key1": "2510a4421e6ffe5d39bb0aa2f62e2e7c:b6a2c7c5a505e538c594c5f80a4339cb",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Longhorn-Network": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(LHNHD-456.dfw.720)/index.m3u8",
+        "key1": "4ada6ec8d2920b14a555d89f9ea189a3:3cce9f5b5938e11d70b348572130d050",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Magnolia-Network": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MAGN-8086.dfw.1080)/index.m3u8",
+        "key1": "634cf29963a7f41693b811c6d02626f3:46727e47d89eb38ac9db176bbe001843",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MeTV": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(METV-2304.dfw.720)/index.m3u8",
+        "key1": "575b2ef9eb8f8882334e8a432825852d:74ada093f2298d434bc9eb86545378f9",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MGM": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MGM-534.dfw.1080)/index.m3u8",
+        "key1": "02b1506d1fb8bfc9577e6c0102e6cec0:3aa9a02871d59074bf0bd3eee9d7b86a",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MGM-Hits": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MGMHT-535.dfw.1080)/index.m3u8",
+        "key1": "244cc1663f4bde20cfa29ae2ebdf600c:1115259e69d5f7a32eb34548b0e67910",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MGM-Marquee": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MGMMAR-536.dfw.1080)/index.m3u8",
+        "key1": "112d81fc632765be8a01c4fd14c0af15:e7cebc32b4817ff50106fcc8e3326425",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MLB-Network": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.akamaized.net/Content/HLS.cps/Live/channel(MLBNHD-3228.dfw.720)/index.m3u8",
+        "key1": "71406664efaa09acab8de01ddc1c35cc:4498f299fc0d18705297794338cdc9e6",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MLB-Alt": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(MLBaHD-5214.dfw.720)/index.m3u8",
+        "key1": "4953bf23c25ebaca2bbf28a8b5a48a81:3384933b0fe05e03a3463779b3fe35f9",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MoreMax": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(MMAXHD-4066.dfw.1080)/index.m3u8 ",
+        "key1": "2723e1c58bcccfd39f96f36b5853d3dd:930e3820b037aa141f8e79ab495c0041",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MotorTrend": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MTHD-3505.dfw.1080)/index.m3u8",
+        "key1": "581656eb7d3067060104ac5046b96ac4:80976cd21f79cdb9993ae2c804260a4c",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MovieMax": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MovMAX-3339.dfw.1080)/index.m3u8",
+        "key1": "0d9cd221765cbffab3898646c3e10afd:b27d063cc964e3cd4e993f8604e89820",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MSNBC": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MSNBC-1590.dfw.1080)/index.m3u8",
+        "key1": "56c532b7907aae652c4989c2b9b85ddd:4ece78ead663b95eebf5929fb6568993",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MTVClassic": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(MTVC-337.dfw.480)/index.m3u8",
+        "key1": "4ebe6cc243eeae2e01b413d25cddaef9:2a0f20ee75c75ad8b2dc933bf8168a1d",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MTV": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(MTVHD-8218.dfw.1080)/index.m3u8",
+        "key1": "1546bc8d65eb0993075cfbe6ff23723a:472331a5cf7bc6f0737f958c969d8c9b",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MTV2": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(MTV2HD-2455.dfw.1080)/index.m3u8",
+        "key1": "0913ac3cf318985f52e45fde1eb2a84a:b9bdf2d515e7c2434251d67eb20855cc",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "MyTV-KTXH": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(KTXH-3107.dfw.720)/index.m3u8",
+        "key1": "33725b89ac7b9313385f230eb4f48aee:7ae1b6433bf9a0d77d6eafd55e6b265f",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "NatGeoWild": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(NGWHD-6054.dfw.720)/index.m3u8",
+        "key1": "53817217d8df64628ebf53fe2706db5c:a0e8863db1de5b2a53a9e3aa7254e800",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "NatGeo": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(NGCHD-8215.dfw.720)/index.m3u8",
+        "key1": "63a0ae64d11a6476427e140bef281a97:594f569aabc965b4bb1710052525da45",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "NBA-TV-HD": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.akamaized.net/Content/HLS.cps/Live/channel(NBAHD-8220.dfw.1080)/index.m3u8",
+        "key1": "124f529d1fa685bf4d7eb7459c179d10:9a773e6ff3ca76fdd295efc8b2dbcac5",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "NewsMax": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(NEWSMXH-808.dfw.1080)/index.m3u8",
+        "key1": "7bad93b8277d2d61db97cf11c14c1ae5:f9adb781bbd169020197acc7700e68f5",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "NewsNation": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(NwsNnHD-3528.dfw.1080)/index.m3u8",
+        "key1": "7e0ab9b09a0379ca776de7f93dba98a0:610efcec172926039e39a59014bade2f",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "NFL-Network": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(NFLHD-8225.dfw.720)/index.m3u8",
+        "key1": "1a1647ef160b01af97cb517056f14c5b:fd7211845ab4d844d01ae7ca9a4e9011",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "NFL-Alt": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(NFLaHD-442.dfw.1080)/index.m3u8",
+        "key1": "5d7577cb2b49e9569f0899f496e34634:d2a92c4ee96f05ab47bb8f6c72c59126",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "NHL-Network": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(NHLHD-8230.dfw.720)/index.m3u8",
+        "key1": "607decd7288868d5dcfe6c4ef9c12be9:ae07fe96a829fbee61613b2f053454ef",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "NickJr": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(NKJRHD-3621.dfw.1080)/index.m3u8",
+        "key1": "1152c54d3d7572cbefd5fe5f64b34774:6fc2aa22b2cf9eaf667a83b6c08a63af",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Nickelodeon": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(NIKeHD-8274.dfw.1080)/index.m3u8",
+        "key1": "3c49d21bce8a5a79a37a9ff83c9c1cb3:6451111ac9c2b24eff6c0035284f2534",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Ovation": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.akamaized.net/Content/HLS.cps/Live/channel(OVTVHD-4638.dfw.1080)/index.m3u8",
+        "key1": "345f91796efd959de840de8c792b240b:a09c4b9327648c95890c2c2e305bd678",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "OWN": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(OWNHD-8851.dfw.1080)/index.m3u8",
+        "key1": "7b53db4f770895aa4f588390c90361dc:a515f87890e3c6efc2f2f1dfb7ecc29a",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Oxygen": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.akamaized.net/Content/HLS.cps/Live/channel(OXGNHD-1782.dfw.1080)/index.m3u8",
+        "key1": "634f2d261f768202fe2eb98d7a996047:f4bb552884b90b6cb1f57c017485fa33",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Paramount": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(PARHD-8245.dfw.1080)/index.m3u8",
+        "key1": "1deed6788c1dc9221e63a8b0edd2e86f:ba0b8e38881be642116673d7f46f82d9",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "PBS-Kids": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(PBSK-2363.dfw.1080)/index.m3u8",
+        "key1": "72c75c841c3ff3d0ffef92dc292071c4:a697f3963f1a7c68eb0cd6b67f90b536",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "PBS-KUHT": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(KUHT-3106.dfw.1080)/index.m3u8",
+        "key1": "0a5032be53db0b500d8e66e204aa3276:82c2b63b75cad0a3092d6ed51d01d5a9",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "PopTV": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(POPHD-572.dfw.1080)/index.m3u8",
+        "key1": "03666f742df1cd1451e2c9b34180c8b1:10639087a9fa721dcf74931fdd9393f1",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "QVC": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(QVCHD-8033.dfw.1080)/index.m3u8",
+        "key1": "27ec2172f1f42d42b3e00e67bb4a91c3:5e07fe9a7eaa2efdf2136e395d5ac99e",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "QVC2": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(QVC2HD-1000601.dfw.1080)/index.m3u8",
+        "key1": "08909280d4d6a5343d2edab302ed3348:b74870b204fe4c4f8dd7e57e6ab8524b",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "QVC3": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(QVC3HD-1000606.dfw.1080)/index.m3u8",
+        "key1": "2c4cf7ff68d6743292a32123b0697bae:6a1c4a9a4681749ee896bbf9d127cf7b",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Reelz": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(REELZHD-3507.dfw.720)/index.m3u8",
+        "key1": "42116b7e260d438786c3761096035915:e7ae16c76366885ccc8badee1844fdaf",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Revolt": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(RVLTHD-8446.dfw.1080)/index.m3u8",
+        "key1": "50c93fdcfcfe1f04e863abc2f37b03f9:cb00399759ccf3ff35a380415316b731",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "RFD-TV": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(RFDTVHD-379.dfw.1080)/index.m3u8",
+        "key1": "1163fa750cb84ecb7dc858018da6b4b3:98638d47eee930ccee6d32863bb7027c",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "SCI": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SCIHD-8232.dfw.1080)/index.m3u8",
+        "key1": "7e3a1fdae097b2739b4fd0e54042112c:8c27fecc81fa8832f373123526f41000",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Scientology-Network": {
+        "url": "https://dfwlive-v1-c7p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SCNTV-323.dfw.1080)/index.m3u8",
+        "key1": "2f359593b36dd3e4c50cd1b3f1e2a588:46f60b9f6a1178bc0ea614e576143541",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "SEC-Network": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SECHD-3669.dfw.720)/index.m3u8",
+        "key1": "61bb0ce6c43b4f5768b9892deb919a5d:3a20bda5a5d8d8c3ec1fd327d4daf0f1",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ShoBet": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SHOBETH-3781.dfw.1080)/index.m3u8",
+        "key1": "25a14f72b6eb8e49a3181e145b4d213a:9ee7a3a8ac61054fb4ea6fa4b2f66e0c",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "ShortsTV": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(SHRTTV-3708.dfw.1080)/index.m3u8",
+        "key1": "1fd45dfdc4148bfe89811a4bc27e50ef:aa7158ab838b402cb8eadb5f99743455",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Showtime": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SHOeHD-1968.dfw.1080)/index.m3u8",
+        "key1": "0f2a8098bff3124cdd7cd0742615793d:76b12c0f8c2807064b8b8e9549bb64d8",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Showtime2": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(SHO2HD-8252.dfw.1080)/index.m3u8",
+        "key1": "51861ae77da3ff74918e7d68c06c5943:79eeedb4cd0173e76a270e5b3acac99b",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Showtime-Extreme": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(EXTRHD-4263.dfw.1080)/index.m3u8",
+        "key1": "7049ff37904d03be5b4d45556bd812bf:78ce8118f534ccafa3d70b0fe72d64ff",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Showtime-Next": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SHNXHD-3782.dfw.1080)/index.m3u8",
+        "key1": "3ae9e7fc582bbd6e802b7f1bfaf4f9bf:819ec67cc6638aca2c864086bd183569",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Showcase": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SHOCSEHD-4224.dfw.1080)/index.m3u8",
+        "key1": "2a0834555878ec1ca4eec46fe94fe690:998f727bf556de1c2557fffe4d03d1d8",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Smithsonian": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.akamaized.net/Content/HLS.cps/Live/channel(SMTHHD-8391.dfw.1080)/index.m3u8",
+        "key1": "371a77dc0f113ebe56be5d53ef56fa75:7318466cc909c19b1dbe271d204465f9",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Sportsman-Channel": {
+        "url": "https://dfwlive-v1-c2p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(SPMNHD-2606.dfw.1080)/index.m3u8",
+        "key1": "32a29abf6b8b7d2950b9c4b15e94c855:a92f5c934df1ae403d33e52bc2513cfb",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Starz-Encore-Suspense": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(SESU-530.dfw.1080)/index.m3u8",
+        "key1": "32471ae44087c78ac4564daea54efeb8:e48bdf75ba078d5346f09aa768de8eef",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Starz-Encore": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SENw-527.dfw.1080)/index.m3u8",
+        "key1": "6a565dbe988c6a0fbff7772b81bb0fdc:87c9469b5b71a711c5729633472bf3ea",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Starz-Encore-Westerns": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SEWS-529.dfw.1080)/index.m3u8",
+        "key1": "179b54baccf8d6e77008f04d5dd44c08:1df5b7898ca487659db7c896514b1fa4",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Starz-KidsandFamily": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(STZKHD-8257.dfw.1080)/index.m3u8",
+        "key1": "366008499301feeaab70e99d114fd1db:18868a3d0c358d8454b5e77ec156913d",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Starz-in-Black": {
+        "url": "https://dfwlive-v1-c2p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(STZBHD-3786.dfw.1080)/index.m3u8",
+        "key1": "2c57db5f9ea4db9c3736b2f15da5f6c0:4b0d21f2132478c8f9ecc6a54606bb50",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Starz-Cinema": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(STZCIHD-3784.dfw.1080)/index.m3u8",
+        "key1": "0f4697b56b68113ad5a66b9f980bf71f:90e796d457687e1dfb4afe8031eb1300",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Starz-Comedy": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(STZCHD-8247.dfw.1080)/index.m3u8 ",
+        "key1": "1281e315323661b55ba992900cd0dd57:ba1c085f31ada27a5ac251e365e49cc1",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Starz-Edge": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SENCHD-3777.dfw.1080)/index.m3u8",
+        "key1": "46371b395efb837bc7aa554db9e8979c:769d1c4987f8e9d0db9923320d7fd543",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Starz": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(STRZHD-8229.dfw.1080)/index.m3u8",
+        "key1": "523dc47e224ad6f43aed4b1d984da8f2:52070aee41c449b82156e2fcb8fb7b3f",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Sundance": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SUNDHD-4734.dfw.1080)/index.m3u8",
+        "key1": "15afcdd949e2beff3fb319e32c42315d:0127d32e44e870e5d4063fc3e5bed992",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Syfy": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(SyfyHD-1326.dfw.1080)/index.m3u8",
+        "key1": "05bf7359d5f2e659bf5e35f7725b7536:f4d3bbbb5166e002705f3fb31525c139",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Taste": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.akamaized.net/Content/HLS.cps/Live/channel(TASTE-484.dfw.1080)/index.m3u8",
+        "key1": "563dc5e4f7f6caac65c3e0c23611e83d:e17b19e6f8370ea3e75cfb71e22078ce",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "TBS": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(TBSHD-8254.dfw.1080)/index.m3u8",
+        "key1": "183181fe63a66c2a90b770973cd4c443:324915169fd24da05d6c3a23c613e9e0",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "TCM": {
+        "url": "https://dfwlive-v1-c1p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(TCMHD-4316.dfw.1080)/index.m3u8",
+        "key1": "45ee8022a07780465d2359ed971e12a9:4672b7dda6928e4b6f00f98caed661d0",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Teennick": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(TNCK-3504.dfw.1080)/index.m3u8",
+        "key1": "354ba4324a457e1f46808665b315b131:0a419759282748e4d5b177b115eca138",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Telemundo-KTMD": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(KTMD-2314.dfw.1080)/index.m3u8",
+        "key1": "40e4428cdf61d0300101966f7bc9dad8:a8ccff0fa57cdb5eaf024a3950f17781",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Tennis-Channel": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(TNNSHD-8240.dfw.1080)/index.m3u8",
+        "key1": "0077c68863dc9e7e7442ccb2b27e4cab:67767105f4f2aa7a5f0feae67cfa3d65",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "The-WeatherChannel": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WEAHD-8253.dfw.1080)/index.m3u8",
+        "key1": "091824cc112b70909d0181ebaf7c64fb:ce2f0d5c1820e93de301821ef0c2fe90",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "TheFirst": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.akamaized.net/Content/HLS.cps/Live/channel(TheFirst-1190.dfw.1080)/index.m3u8",
+        "key1": "110f93327a60406f067db181acea93f6:62cfc56f7a69398017923180847e1486",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Thriller-Max": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(TMAXHD-4068.dfw.1080)/index.m3u8",
+        "key1": "6ad3b0fce4cecc6073c1298b38ed20b7:65bd16a992dbb08da964b2f4ef3d2ffd",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "TLC": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.akamaized.net/Content/HLS.cps/Live/channel(TLCHD-8262.dfw.1080)/index.m3u8",
+        "key1": "4d92fe426295433c5a1e7d72de2089c4:25cb1c0f6d5b9338d9cf00f1e49a8c27",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "TNT": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(TNTHD-1966.dfw.1080)/index.m3u8",
+        "key1": "4bc178a57f48ada9ed3ea653a89fdd72:d8df2a39f26b2ebfdae0ec4e37ceb937",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Trvl": {
+        "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(TRAVHD-3529.dfw.1080)/index.m3u8",
+        "key1": "28129b5165714309f563878aefa8f35a:6df8cb8653979287980456cd2e0f310b",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "truTV": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(truTVHD-1363.dfw.1080)/index.m3u8",
+        "key1": "20ea3df891f793020a783a667cf90430:2b059512e5c00ea6c95e45a570edeb18",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "TUDN": {
+        "url": "https://dfwlive-v1-c1p6-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(TUDNHD-2016.dfw.1080)/index.m3u8",
+        "key1": "04e53b4f030a513d9ae8f487d4612c4c:0a1edd2a88e11adf8375260de974a9db",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "TV-Land": {
+        "url": "https://dfwlive-v1-c4p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(TVLDHD-6213.dfw.1080)/index.m3u8",
+        "key1": "6921f95caee13c923c7ec49042f687a7:da5160af1a8e189c50956a0642e683b9",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "TV-One": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(TV1-241.dfw.1080)/index.m3u8",
+        "key1": "52c9136b7ee3a256f5a425aca4bfd4c7:c2bfa4f6d8a9f1462f3416486281fedb",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "UniMas": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(UMasHD-8030.dfw.1080)/index.m3u8",
+        "key1": "005968f5a20f1650603e8609322b3bf9:b1f5a78aeead90d91c3490cf4dded6c7",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "NBC-Universo": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(UVSOHD-1320.dfw.1080)/index.m3u8",
+        "key1": "701628fa90c54472dbe45d744cda3db3:a914dcbc3eeb4d775cd2da7be3ce8f03",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Univision": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(UNIeHD-3247.dfw.1080)/index.m3u8",
+        "key1": "298f5360c5a38fec03d57a6aa5bb735f:b8a03587cbe89b1198d8291a62092045",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "Universal-KidsHD": {
+        "url": "https://dfwlive-v1-c4p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(UKIDSH-295.dfw.1080)/index.m3u8",
+        "key1": "3c93b17d6901d5a109c00ba9c4839c1b:b54b389881435ac857cc0acb4805ded4",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "UP-TV": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(UPTV-3511.dfw.1080)/index.m3u8",
+        "key1": "3425326bb241c79a196341f7e31f7cd8:f65bfcf8246061110c54e83ddcbf80ff",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "USA-Network": {
+        "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(USAHD-1327.dfw.1080)/index.m3u8",
+        "key1": "372adbbc2f7a84379d4af2a0350ca190:37922201fbe77e02e24a590c7c8b443b",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "WEtvHD": {
+        "url": "https://dfwlive-v1-c7p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WeHD-4731.dfw.1080)/index.m3u8",
+        "key1": "73c00e6285071f57c630a8bb0d64edd1:f2fb76630d5233a6c4b06114501992ee",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "VH1": {
+        "url": "https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(VH1HD-8279.dfw.1080)/index.m3u8",
+        "key1": "205dcc24bdda1e298b3ba0b3a74f4f0d:3d7f650b5296b7b81a738679c21a9148",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "VICE": {
+        "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(VICEHD-1936.dfw.1080)/index.m3u8",
+        "key1": "6a7dd5c79fef1699ee2ffa3d38fe02b3:fac74244cd1383119f9f00a77ebbbde7",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Linux; Android 10; BRAVIA 4K VH2 Build/QTG3.200305.006.S292; wv)",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+    "mls": {
+        "url": "https://linear-fa-p-har3.tv.apple.com/Content/HLS_CBC/Live/channel(mls.ec3.us_en_hren_11)/index.m3u8",
+        "key1": "3a46085983273745aa08c55f94fe015d:a052ab82ff84f9f6616557fc43434d48",
+        "key2": "",
+        "key3": "",
+        "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+        "authorization": "",
+        "proxy": "",
+        "resolution": ""
+    },
+  "KDFW": {
+    "url": "https://dfwlive-v1-c1p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(KDFW-8605.dfw.720)/index.m3u8",
+    "key1": "3bc9905d28250666cbd764ea121904b6:2494ad78e38803e594053755a087713a",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "KXAS": {
+    "url": "https://dfwlive-v1-c2p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(KXAS-8606.dfw.1080)/index.m3u8",
+    "key1": "2742ec1c9a8746ead9ffa64c32eb93d6:d09f13933b4eb53befae288e3e33d55f",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "WFAA": {
+    "url": "https://C4--98-153-223-0-24-8607.dfwlive-v1-c7p3-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(WFAA-8607.dfw.1080)/index.m3u8",
+    "key1": "2dc466525516088f018e8c3b13884353:5be704aef6ea9ee9e65083b283db733d",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "KTVT": {
+    "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(KTVT-8608.dfw.1080)/index.m3u8",
+    "key1": "7f9f6c1fd58c6e65af505c1ca66e9889:68548010b3b1249fe446373142f0985e",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "KERA": {
+    "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(KERA-3116.dfw.1080)/index.m3u8",
+    "key1": "68861c1bf919bb89f685a9dc0c1509cf:34f8acc297d5abcc4066a11cad0f4ad7",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NFLNRZ": {
+    "url": "https://C4--98-153-223-0-24-5703.dfwlive-v1-c1p3-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(NFLNRZ-5703.dfw.1080)/index.m3u8",
+    "key1": "22e5f3da863d8aa29c99f1299f1612b0:9c74f1df87d61fdf61434081187d91c2",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NFLaHD": {
+    "url": "https://dfwlive-v1-c4p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(NBASLD-1000600.dfw.1080)/index.m3u8",
+    "key1": "0361e953593da520893a415a4818e163:d798f1183cfc02f3c5ee69bca56ef1dc",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MLBaHD": {
+    "url": "https://dfwlive-v1-c4p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(NBASLD-1000600.dfw.1080)/index.m3u8",
+    "key1": "0361e953593da520893a415a4818e163:d798f1183cfc02f3c5ee69bca56ef1dc",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "SHOPLC": {
+    "url": "https://C4--98-153-223-0-24-226.dfwlive-v1-c1p6-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(SHOPLC-226.dfw.1080)/index.m3u8",
+    "key1": "5b5ba16c19cebeb9593c56d6b293efda:6a0b9ae5cba788f5ea39b82ce5761ee6",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "TNTWHD": {
+    "url": "https://dfwlive-v1-c7p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(TNTWHD-2602.dfw.1080)/index.m3u8",
+    "key1": "447d39d12fd5a92b2bc4c3f022282187:1173962dd0103b8b5d25bb1aa2747139",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "TBSWHD": {
+    "url": "https://C4--98-153-223-0-24-2603.dfwlive-v1-c7p4-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(TBSWHD-2603.dfw.1080)/index.m3u8",
+    "key1": "13c26d509ed3f568149dd7e9143b5b6f:43c0e0c4d364b6e4a188080b10313b4c",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "COMWHD": {
+    "url": "https://dfwlive-v1-c2p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(COMWHD-2598.dfw.1080)/index.m3u8",
+    "key1": "5549cc1dc46e7ee319edafbb351199dd:7522ba52f2123a07065b8ea969e2b978",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "JTV": {
+    "url": "https://dfwlive-v1-c2p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(JTV-367.dfw.1080)/index.m3u8",
+    "key1": "2b2dfd3ad6e7c33a7c59395731d51a48:7f7dca7e6eddb058f14f4bb4f1594dd2",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "BETWHD": {
+    "url": "https://dfwlive-v1-c2p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(BETWHD-2599.dfw.1080)/index.m3u8",
+    "key1": "5245abab8690b0fea23af49577439cdb:35e8ded206e763816238ca15aabef1f2",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MTVWHD": {
+    "url": "https://dfwlive-v1-c2p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(MTVWHD-2600.dfw.1080)/index.m3u8",
+    "key1": "144b5ca166579f7d236c3e41e048ee3e:68fcdd2193f484c240008432368bb29f",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "GRIOTV": {
+    "url": "https://dfwlive-v1-c2p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(GRIOTV-6537.dfw.1080)/index.m3u8",
+    "key1": "7f78bd1b817ba80e0da925b5aa028d3a:b4eb2a51bdeb24426a3178487a209218",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "INSPHD": {
+    "url": "https://C4--98-153-223-0-24-359.dfwlive-v1-c7p3-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(INSPHD-359.dfw.1080)/index.m3u8",
+    "key1": "1304699e2225bfb27e649da8831806c0:c5c3ca3a4b93b6f899d876ca19d9aa89",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "TELe": {
+    "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(TELe-405.dfw.480)/index.m3u8",
+    "key1": "36298b8a21d12507b4a6ae99be6db89e:61eaf8473a2eeb7bb98b88caedf8ff3b",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "ONCE": {
+    "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(ONCE-415.dfw.480)/index.m3u8",
+    "key1": "5427bb98cc0022ba956dd3fc31673f06:7309da2c3fa927eeeb25ceb3995637af",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "ENLC": {
+    "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(ENLC-3660.dfw.480)/index.m3u8",
+    "key1": "544c0013531ae8d7ab6d83bf26615f6e:5b24a41aed0979778f9257a3bd3be162",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "HITN": {
+    "url": "https://dfwlive-v1-c4p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(HITN-438.dfw.480)/index.m3u8",
+    "key1": "4258c1bc904adcfd595e4a9219ea50ac:23bdb12aa250495b3eed10dea1157dc7",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "DSTESP": {
+    "url": "https://dfwlive-v1-c7p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(DSTESP-370.dfw.720)/index.m3u8",
+    "key1": "1cf4a95d6951286330b8356fd4558d91:5feb4f3196157afcc3f806f35e6e766a",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "GOL": {
+    "url": "https://dfwlive-v1-c4p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(GOL-426.dfw.1080)/index.m3u8",
+    "key1": "1ea1d1d61b9bde6a96b38db5a12964fe:fcc46a176ca7df2718cbfc3e37cb8852",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MAXwHD": {
+    "url": "https://dfwlive-v1-c7p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(MAXwHD-8267.dfw.1080)/index.m3u8",
+    "key1": "04c42c1ca7158f61b0d415788285262a:85a6d70ff55767eb305c0fc888f9c574",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FDTVHD": {
+    "url": "https://dfwlive-v1-c2p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(FDTV-602.dfw.720)/index.m3u8",
+    "key1": "433c51bc57b8fd32154f0fa9377a70a1:ddd492cea433700d28be6a4ecb457843",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "OUTHD": {
+    "url": "https://dfwlive-v1-c7p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(OUTHD-603.dfw.1080)/index.m3u8",
+    "key1": "354cd9f1439d6e4cce72e762073eec23:5113713fd9bc32afedbd812cc5a2c26d",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "BTN3OF": {
+    "url": "https://dfwlive-v1-c7p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(BTN3OF-5611.dfw.720)/index.m3u8",
+    "key1": "1455581830e1107b5be2e88717947778:ee73ce24bddbb44192b284785b7a0317",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "BTN2OF": {
+    "url": "https://C4--98-153-223-0-24-5609.dfwlive-v1-c7p4-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(BTN2OF-5609.dfw.720)/index.m3u8",
+    "key1": "355ac07953bcf264912b48447be8f1ab:3c7cb53221c840c7994ed3c0873b72cb",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "BTN4OF": {
+    "url": "https://dfwlive-v1-c7p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(BTN4OF-5612.dfw.720)/index.m3u8",
+    "key1": "58aeb8e5bf1eec3516335fff92ea312f:ea505d4d1e60c0f221874643a6f825a4",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NXT-HD": {
+    "url": "https://dfwlive-v1-c2p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(NXT-HD-8981.dfw.1080)/index.m3u8",
+    "key1": "062e62cf699f29d180d0a1ec4ec9b30f:b6920d890f279f22ffc1b1505b7ff977",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NESNPLUS": {
+    "url": "https://dfwlive-v1-c4p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(NESNPLUS-5629.dfw.1080)/index.m3u8",
+    "key1": "20b9f308f8074f5e208d7cb0446fc69b:cb5010ec549a58cc4c136b2e852cd4f0",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NBSBHD": {
+    "url": "https://dfwlive-v1-c4p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(NBSBHD-5630.dfw.1080)/index.m3u8",
+    "key1": "783bef423850f172d83c25fbd17332c4:8ddd89eb807a96b78acc2c3a3ac2da42",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MSGHD": {
+    "url": "https://C4--98-153-223-0-24-5634.dfwlive-v1-c2p2-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(MSGHD-5634.dfw.1080)/index.m3u8",
+    "key1": "3c001a8e051ee7f7614b2c265c87327c:18b4061c298e9b26f85381e717936697",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MSGALT-1": {
+    "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MSGALT-1-5636.dfw.1080)/index.m3u8",
+    "key1": "092adea8e7d8b83ea781cbb24f9b8a22:5d80d3991b4bc4c74f93279c0d6c6748",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MSGALT-2": {
+    "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MSGALT-2-5637.dfw.1080)/index.m3u8",
+    "key1": "59b044a69b7dcba690b3e3bd151cb2d2:9e175c1808edd9d80d268e13b7f694f9",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MSGSNHD": {
+    "url": "https://dfwlive-v1-c2p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MSGSNHD-5635.dfw.1080)/index.m3u8",
+    "key1": "3babd3b0d78d5d6e674bd7ac29b7607c:eeb7adcdf27914cd955e86d1b22402d8",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MSGALT-3": {
+    "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MSGALT-3-2447.dfw.1080)/index.m3u8",
+    "key1": "19fb567cb27ff194086a4177abc44688:c49b2b13824029372a0c59eaeeaebf35",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MASN2": {
+    "url": "https://dfwlive-v1-c4p5-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MASN2-5641.dfw.1080)/index.m3u8",
+    "key1": "4a21561e757498ed682c834acf503749:3b6f3d38d8278dc058b507de3674c7ed",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MASNHD": {
+    "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MASNHD-5620.dfw.1080)/index.m3u8",
+    "key1": "6186dc9221c47fdb60312255a924371e:3d069d6baf3996726bc9dbc7f91f59b3",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MNMT2HD": {
+    "url": "https://C4--98-153-223-0-24-5643.dfwlive-v1-c4p5-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(NSWaltHD-5643.dfw.1080)/index.m3u8",
+    "key1": "370c1b99148ef6f2582c596df68afa91:90485f32f9e73f08213a8dbd66a33fbe",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MNMTHD": {
+    "url": "https://dfwlive-v1-c4p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(NSWAHD-5642.dfw.1080)/index.m3u8",
+    "key1": "3010b8422df59e6c07785a02b7bbde07:7c56ea09dfbd62fac50ab5c8daa10103",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSSOOM": {
+    "url": "https://dfwlive-v1-c2p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(FSSOOM-1000281.dfw.720)/index.m3u8",
+    "key1": "d7fd334cf683f21a7d96ee5c61677597:603922a3ca2a45bb852a8c9e87e991ad",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSSEOM": {
+    "url": "https://dfwlive-v1-c2p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FSSEOM-1000282.dfw.720)/index.m3u8",
+    "key1": "6bbb5ace8e28a36390a712ba637f32f9:408555eadff940de95084694bac2fe32",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSSNOM": {
+    "url": "https://C4--98-153-223-0-24-1000284.dfwlive-v1-c2p1-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(FSSNOM-1000284.dfw.720)/index.m3u8",
+    "key1": "8637024d6140831e693a83a577f56986:82ca9f4fb4aec489ac752ac42db271af",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSFLOM": {
+    "url": "https://C4--98-153-223-0-24-1000274.dfwlive-v1-c2p1-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(FSFLOM-1000274.dfw.720)/index.m3u8",
+    "key1": "d4fa5c049577ea1e5e8789cf456f1159:2228df2b85c5abf32f785ee2c03dc6d1",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "ATPTHDa": {
+    "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ATPTHDa-622.dfw.720)/index.m3u8",
+    "key1": "2fdd66ee3440148b6d3bb71db803145e:2554467fc05ed17303af1422c69797ca",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "ATPTHD": {
+    "url": "https://C4--98-153-223-0-24-5659.dfwlive-v1-c4p3-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(ATPTHD-5659.dfw.720)/index.m3u8",
+    "key1": "7bdd99fa62fac59f24f009fe15141cf1:35f2ca6326a7161b2fba0c5ac2ca70a9",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSOHOM": {
+    "url": "https://dfwlive-v1-c2p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(FSOHOM-1000278.dfw.720)/index.m3u8",
+    "key1": "86844e1faa73a31498e4c3600308b163:779cc04bb99c443af0c7b35d5e45ba45",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "STOOM": {
+    "url": "https://dfwlive-v1-c2p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(STOOM-1000275.dfw.720)/index.m3u8",
+    "key1": "5aa5bb405a7baadf3edbe0e37224ebce:95455eea42c6d618aef70bedecc3576a",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSDOM": {
+    "url": "https://dfwlive-v1-c2p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(FSDOM-1000254.dfw.720)/index.m3u8",
+    "key1": "10ce2e13d8225cf9c7e19b3fb428b77f:1e2706c3f5cc5cd03622ec7abb61550c",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MARQHD": {
+    "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(MARQHD-568.dfw.1080)/index.m3u8",
+    "key1": "5d9a4bd8d4384e4a43614c2b92467b4d:ee3cc6fb0fdcc7fbdf9ad9cbb7ab5aad",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NSCHHD": {
+    "url": "https://dfwlive-v1-c4p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(NSCHHD-5665.dfw.1080)/index.m3u8",
+    "key1": "1b17abef0caf615c5dbbf400a4ff36f5:8949e23dc87e0e420b90700bd5ed90e8",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NC2aHD": {
+    "url": "https://dfwlive-v1-c1p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(NC2aHD-5667.dfw.1080)/index.m3u8",
+    "key1": "20d956f45e3570a91a6f1f057208a718:ce1f836dc2805d5267a1077813d2154d",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSNO1OM": {
+    "url": "https://C4--98-153-223-0-24-1000277.dfwlive-v1-c2p1-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(FSNO1OM-1000277.dfw.720)/index.m3u8",
+    "key1": "e8ff51826afd6c02cd6ec836b70a2b4b:9ff4195766909c2c773cdd24dc6e0fca",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSWIOM": {
+    "url": "https://dfwlive-v1-c2p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(FSWIOM-1000286.dfw.720)/index.m3u8",
+    "key1": "0a283f2d30ad2ce56b5f9c727375ccd9:7d22a4bdc94a8a0ddc052c074e92ff75",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSMWOM": {
+    "url": "https://dfwlive-v1-c2p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FSMWOM-1000276.dfw.720)/index.m3u8",
+    "key1": "b1e1fd6b42c6b5b642e806e0082ccc71:b16673bb1df2320d380ee46e8a24dc81",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSSTX1H": {
+    "url": "https://dfwlive-v1-c2p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(FSSTX1H-1000195.dfw.720)/index.m3u8",
+    "key1": "55f1c957760a9308039ef5af69b50ae4:21478eb0d80b8f44b697b7c7d9ff400b",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSS1HD": {
+    "url": "https://dfwlive-v1-c2p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(FSS1HD-1000179.dfw.720)/index.m3u8",
+    "key1": "cb8bb702d877234fe0c1ec4c17476ade:157bcd5728a46433b3b37dbdbeb818a7",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "ALTHD": {
+    "url": "https://dfwlive-v1-c7p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ALTHD-5681.dfw.1080)/index.m3u8",
+    "key1": "73964dd9a75aaf3b7919b08063b440c7:049deabb414e5aee2b95780701999ab5",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "ALTalt": {
+    "url": "https://C4--98-153-223-0-24-5682.dfwlive-v1-c2p3-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(ALTalt-5682.dfw.1080)/index.m3u8",
+    "key1": "43aeb875089ca820a84088f28ed97915:0275dbf2881bcd937672dd5fe55b3b4c",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "ATRMHD": {
+    "url": "https://C4--98-153-223-0-24-5683.dfwlive-v1-c4p3-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(ATRMHD-5683.dfw.720)/index.m3u8",
+    "key1": "14ba92eedbcd6afc26855988653cda6d:715f230cfd15ccdcafb91d637971693c",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "ATRMalt": {
+    "url": "https://dfwlive-v1-c2p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(ATRMalt-5684.dfw.720)/index.m3u8",
+    "key1": "79c679fa848d80594593a74ceb8b5456:8b2b9dd13089d2af7db68d0d454b4073",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "ATRWHD": {
+    "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(ATRWHD-2657.dfw.720)/index.m3u8",
+    "key1": "54b513a701c0f0e54c25c27e39f8877c:882d8384f88883425287ba6d16b672e6",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "RTNWPlusHD": {
+    "url": "https://C4--98-153-223-0-24-5688.dfwlive-v1-c1p2-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(RTNWPlusHD-5688.dfw.720)/index.m3u8",
+    "key1": "67ce4c4bae58cd874d3e341a4ca04dee:2afe5b3a4440e066fb4c964ff3c0cfaf",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "RTNWHD": {
+    "url": "https://dfwlive-v1-c4p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(RTNWHD-5687.dfw.720)/index.m3u8",
+    "key1": "5c331304ec01c01a6815438dc064937c:808399f5457df86a976082b299004990",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "SNLAHD": {
+    "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SNLAHD-807.dfw.1080)/index.m3u8",
+    "key1": "031751ba1f687ca8ec42f50ad1e4729f:d5be81d1d9c6ba7eb6fa4376ac8dc98a",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "SPSNHDa": {
+    "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(SPSNHDa-6655.dfw.1080)/index.m3u8",
+    "key1": "7e87174a436083ad32c6f1eceac06246:780718457327e42f4c01d33087fe0270",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "SPSNHD": {
+    "url": "https://dfwlive-v1-c2p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(SPSNHD-1104.dfw.1080)/index.m3u8",
+    "key1": "589c02d97917d786bb044c11b6084e60:ccfa4fe8f4463fe2ff899760b223ee02",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSWOM": {
+    "url": "https://C4--98-153-223-0-24-1000285.dfwlive-v1-c2p1-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(FSWOM-1000285.dfw.720)/index.m3u8",
+    "key1": "5b63490d848d12b88186a35a440a6201:857d56405957ff4321a5fb5553225c65",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSPTOM": {
+    "url": "https://dfwlive-v1-c2p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(FSPTOM-1000280.dfw.720)/index.m3u8",
+    "key1": "feacc43d2e87dd441dbe8ddf503858aa:fd56da42980523780703669d79572f5c",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FSSDOM": {
+    "url": "https://dfwlive-v1-c2p1-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(FSSDOM-1000279.dfw.720)/index.m3u8",
+    "key1": "dc3ad9ee6b4d81dad1de10fb4f9e152f:349a38e843c48933972beb17ccb30e82",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NSBAHD": {
+    "url": "https://dfwlive-v1-c4p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(NSBAHD-3772.dfw.1080)/index.m3u8",
+    "key1": "4fb3dc7f144b39fa8057453171350784:64f94a709714420dd90260cdb5b05c54",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NSBAPlusHD": {
+    "url": "https://C4--98-153-223-0-24-5697.dfwlive-v1-c4p5-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(NSBAPlusHD-5697.dfw.1080)/index.m3u8",
+    "key1": "125358ebb523749090616725e5140e75:13735624b2aa7e14d9d30e470e476246",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NSCAalt": {
+    "url": "https://C4--98-153-223-0-24-5699.dfwlive-v1-c2p3-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(NSCAalt-5699.dfw.1080)/index.m3u8",
+    "key1": "0577d3d4071fd8d676798d80b97c6bed:b65b547020e77e7ee770b8ce5c4e8859",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NSCAHD": {
+    "url": "https://C4--98-153-223-0-24-3773.dfwlive-v1-c4p4-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(NSCAHD-3773.dfw.1080)/index.m3u8",
+    "key1": "6cf7b52cf9571a31a538a23895b66f2a:a3c9ae6dfb877f78cc8b3b5ef104f4a4",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NSCAalt2": {
+    "url": "https://C4--98-153-223-0-24-6441.dfwlive-v1-c1p2-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(NSCAalt2-6441.dfw.1080)/index.m3u8",
+    "key1": "0d816c9a43266131169cfa14b0f03579:dc028e6eef4bf9148343cb076a2769ca",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MLBHD": {
+    "url": "https://C4--98-153-223-0-24-5719.dfwlive-v1-c1p1-sponsored.dfw.vcdn.att-idns.net/Content/HLS.cps/Live/channel(MLBHD-5719.dfw.720)/index.m3u8",
+    "key1": "11a2f018c538d663df43ed144d9193bc:61beeca5bcfb7c57c615efdb0d176db9",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "ARANG": {
+    "url": "https://dfwlive-v1-c4p4-sponsored.akamaized.net/Content/HLS.cps/Live/channel(ARANG-2486.dfw.480)/index.m3u8",
+    "key1": "7e52efb0f5a14394f42fdb5ac870ab00:4dd03cc4ca9e8058526247b335e29536",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "ABC-WLS": {
+    "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WLS-8633.dfw.720)/index.m3u8",
+    "key1": "27089b50252cedf94ec11440d45f7d46:1b9b006f7df466c21cb61ac07989327b",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "FOX-WFLD": {
+    "url": "https://dfwlive-v1-c7p4-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WFLD-8634.dfw.720)/index.m3u8",
+    "key1": "79c7e82fa38138edc421bd6f0b437c22:21c39f06772c635aa402451743730035",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "MNT-WPWR": {
+    "url": "https://dfwlive-v1-c2p3-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WPWR-2822.dfw.720)/index.m3u8",
+    "key1": "3671a8bcf160f7972b8a711378e53c43:810b8dd4e6af1ab2815a6ea403b31e91",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "NBC Sports Chicago Plus": {
+    "url": "https://dfwlive-v1-c4p5-sponsored.akamaized.net/Content/HLS.cps/Live/channel(NCHaHD-5666.dfw.1080)/index.m3u8",
+    "key1": "79c297f89435048ec8c6e52731e38c39:bcd44d6bad3d157bc4985787568df2ee",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "PBS-WTTW": {
+    "url": "https://dfwlive-v1-c1p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WTTW-8410.dfw.1080)/index.m3u8",
+    "key1": "77858f5d5f164fb70dcc440f7649733c:bb6d0f4ce2d7b3b76d197d38f60b90e8",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "PBS-WYIN": {
+    "url": "https://dfwlive-v1-c1p1-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WYIN-2930.dfw.1080)/index.m3u8",
+    "key1": "260d5654274d874e63edc181a06c31e7:6e411229063d7d840ec10e9646303d0c",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "Univision-WGBO": {
+    "url": "https://dfwlive-v1-c7p2-sponsored.akamaized.net/Content/HLS.cps/Live/channel(WGBO-4299.dfw.720)/index.m3u8",
+    "key1": "079d45c04c99fa21288a55a5b331ab33:9ff40d9cf44674694846df9a13681648",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "resolution": "1280"
+  },
+  "starzedge": {
+    "url": "https://dfwlive-v1-c1p2-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(STZEHD-8224.dfw.1080)/index.m3u8",
+    "key1": "13196cfb041489d90671cb73019f0675:2f495dc4c608dbc44beb2a8294cc1c7c",
+    "key2": "",
+    "key3": "",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+    "authorization": "",
+    "proxy": "",
+    "shaka-packager": false,
+    "resolution": "1280"
+    }
+}
