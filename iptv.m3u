@@ -6,11 +6,11 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="http://myserveriptv.com:2082/images/5e1fb4b0c333684a1cb36aa239fb6ec8.png",FOX NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",翡翠台
-https://cdn-iptv.hiper25.com/TVB/video.m3u8
+https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",明珠台
-https://cdn-iptv.hiper25.com/Pearl/video.m3u8
+https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",澳门卫视
-https://cdn-iptv.hiper25.com/TDM/video.m3u8
+https://iptv.hiper25.com/TDM/video.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",EROXXX HD
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-name="" tvg-logo="",EROX
