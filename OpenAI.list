@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN,cdn.auth0.com
@@ -40,3 +41,4 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
+DOMAIN-KEYWORD,chatgpt
