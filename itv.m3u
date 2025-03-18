@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="" tvg-logo="http://myserveriptv.com:2082/images/5e1fb4b0c333684a1cb36aa239fb6ec8.png",FOX NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2b/HoYIBC_logo.png",76 HOY国际财经台
-https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/400px-HOY_TV_Logo.svg.png",77 HOYTV
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HOY_Infotainment_Channel.png/revision/latest?cb=20231221130037&path-prefix=vi",78 HOY资讯台
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://archive.org/download/20230307_20230307_1822/%E4%BA%94%E6%98%9F%E9%AB%94%E8%82%B2.png",五星体育
+https://stream1.freetv.fun/wu-xing-ti-yu-14.m3u8
