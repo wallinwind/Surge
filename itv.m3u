@@ -1,11 +1,20 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
-http://47.76.146.40:2095/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
-#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://live.fanmingming.cn/tv/無線新聞台.png",無線新聞台
-http://47.76.146.40:2095/stream/bxtv/null-1/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
-#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.cn/tv/鳳凰中文.png",鳳凰中文
-http://47.76.146.40:2095/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
-#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.cn/tv/鳳凰資訊.png",鳳凰資訊
-http://47.76.146.40:2095/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
-#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.cn/tv/鳳凰香港.png",鳳凰香港
-http://47.76.146.40:2095/stream/bxtv/null-4/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-name="viu6" tvg-logo="",Viu TV6
+http://a.ru8.dpdns.org/now/096/master.m3u8
+#EXTINF:-1 tvg-name="Viu TV" tvg-logo="",Viu TV
+http://a.ru8.dpdns.org/now/099/master.m3u8
+#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="",Now华剧台
+http://a.ru8.dpdns.org/now/105/master.m3u8
+#EXTINF:-1 tvg-name="Now" tvg-logo="",Now
+http://a.ru8.dpdns.org/now/200/master.m3u8
+#EXTINF:-1 tvg-name="Now直播台" tvg-logo="",Now直播台
+http://a.ru8.dpdns.org/now/331/master.m3u8
+#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="",Now新闻台
+http://a.ru8.dpdns.org/now/332/master.m3u8
+#EXTINF:-1 tvg-name="Now财经台" tvg-logo="",Now财经台
+http://a.ru8.dpdns.org/now/333/master.m3u8
+#EXTINF:-1 tvg-name="Now Sports Prime" tvg-logo="",Now Sports Prime
+http://a.ru8.dpdns.org/now/630/master.m3u8
+
+
+
