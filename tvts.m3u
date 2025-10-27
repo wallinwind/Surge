@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://www.smg.cn/upload/images/logo(2).png",第一财经
-http://8.138.7.223/tv/shtv.php?id=dycj
+http://tr01.irfortr.dns-dynamic.net/:8080/dftv.php?id=dycj
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://www.smg.cn/upload/images/logo(3).jpg",五星体育
-http://8.138.7.223/tv/shtv.php?id=wxty
+http://tr01.irfortr.dns-dynamic.net/:8080/dftv.php?id=wxty
