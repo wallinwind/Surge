@@ -1,0 +1,98 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="mewatch" tvg-id="mewatch/channel5" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Channel 5 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/channel5/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:2 group-title="mewatch" tvg-id="mewatch/channel8" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Channel 8 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/channel8/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:3 group-title="mewatch" tvg-id="mewatch/channelu" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Channel U [mewatch]
+http://192.168.68.119:18484/stream/mewatch/channelu/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:4 group-title="mewatch" tvg-id="mewatch/suria" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Suria [mewatch]
+http://192.168.68.119:18484/stream/mewatch/suria/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:5 group-title="mewatch" tvg-id="mewatch/vasantham" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Vasantham [mewatch]
+http://192.168.68.119:18484/stream/mewatch/vasantham/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:6 group-title="mewatch" tvg-id="mewatch/cna" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",CNA [mewatch]
+http://192.168.68.119:18484/stream/mewatch/cna/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:7 group-title="mewatch" tvg-id="mewatch/oktolidays" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Oktolidays [mewatch]
+http://192.168.68.119:18484/stream/mewatch/oktolidays/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:8 group-title="mewatch" tvg-id="mewatch/mewatchlive1" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",meWATCH LIVE 1 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/mewatchlive1/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:9 group-title="mewatch" tvg-id="mewatch/mewatchlive2" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",meWATCH LIVE 2 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/mewatchlive2/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:10 group-title="mewatch" tvg-id="mewatch/mewatchlive5" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",meWATCH LIVE 5 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/mewatchlive5/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:11 group-title="mewatch" tvg-id="mewatch/mewatchlive6" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",meWATCH LIVE 6 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/mewatchlive6/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:12 group-title="mewatch" tvg-id="mewatch/mewatchsport1spl01sgp" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Mewatch SPORT 1-SPL01 SGP [mewatch]
+http://192.168.68.119:18484/stream/mewatch/mewatchsport1spl01sgp/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:13 group-title="mewatch" tvg-id="mewatch/mewatchsport2spl02sgp" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Mewatch SPORT 2-SPL02 SGP [mewatch]
+http://192.168.68.119:18484/stream/mewatch/mewatchsport2spl02sgp/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:14 group-title="mewatch" tvg-id="mewatch/seagamesch01" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",SEA Games CH01 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/seagamesch01/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:15 group-title="mewatch" tvg-id="mewatch/seagamesch02" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",SEA Games CH02 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/seagamesch02/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:16 group-title="mewatch" tvg-id="mewatch/seagamesch03" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",SEA Games CH03 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/seagamesch03/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:17 group-title="mewatch" tvg-id="mewatch/seagamesch04" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",SEA Games CH04 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/seagamesch04/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:18 group-title="mewatch" tvg-id="mewatch/seagamesch05" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",SEA Games CH05 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/seagamesch05/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:19 group-title="mewatch" tvg-id="mewatch/seagamesch06" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",SEA Games CH06 [mewatch]
+http://192.168.68.119:18484/stream/mewatch/seagamesch06/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:20 group-title="mewatch" tvg-id="mewatch/rivermonsters" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",River Monsters [mewatch]
+http://192.168.68.119:18484/stream/mewatch/rivermonsters/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:21 group-title="mewatch" tvg-id="mewatch/foodon" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",FoodON [mewatch]
+http://192.168.68.119:18484/stream/mewatch/foodon/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:22 group-title="mewatch" tvg-id="mewatch/fifa" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",FIFA+ [mewatch]
+http://192.168.68.119:18484/stream/mewatch/fifa/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:23 group-title="mewatch" tvg-id="mewatch/wsport" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",W-Sport [mewatch]
+http://192.168.68.119:18484/stream/mewatch/wsport/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:24 group-title="mewatch" tvg-id="mewatch/tracesportstars" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",TRACE Sport Stars [mewatch]
+http://192.168.68.119:18484/stream/mewatch/tracesportstars/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:25 group-title="mewatch" tvg-id="mewatch/actionhollywoodmovies" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Action Hollywood Movies [mewatch]
+http://192.168.68.119:18484/stream/mewatch/actionhollywoodmovies/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:26 group-title="mewatch" tvg-id="mewatch/kartoonchannel" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Kartoon Channel [mewatch]
+http://192.168.68.119:18484/stream/mewatch/kartoonchannel/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:27 group-title="mewatch" tvg-id="mewatch/tgjunior" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",TG Junior [mewatch]
+http://192.168.68.119:18484/stream/mewatch/tgjunior/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:28 group-title="mewatch" tvg-id="mewatch/now80s" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",NOW 80s [mewatch]
+http://192.168.68.119:18484/stream/mewatch/now80s/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:29 group-title="mewatch" tvg-id="mewatch/now70s" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",NOW 70s [mewatch]
+http://192.168.68.119:18484/stream/mewatch/now70s/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:30 group-title="mewatch" tvg-id="mewatch/nowrock" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",NOW Rock [mewatch]
+http://192.168.68.119:18484/stream/mewatch/nowrock/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:31 group-title="mewatch" tvg-id="mewatch/fearfactor" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Fear Factor [mewatch]
+http://192.168.68.119:18484/stream/mewatch/fearfactor/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:32 group-title="mewatch" tvg-id="mewatch/dealornodeal" tvg-logo="" provider="mewatch" provider-logo="" provider-type="iptv",Deal or No Deal [mewatch]
+http://192.168.68.119:18484/stream/mewatch/dealornodeal/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
