@@ -1,0 +1,23 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="北美TVB" tvg-id="tvbbeimei/tvbvietnam" tvg-logo="" provider="北美TVB" provider-logo="" provider-type="iptv",TVB Vietnam(越南台) [北美TVB]
+http://192.168.68.119:18484/stream/tvbbeimei/tvbvietnam/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:2 group-title="北美TVB" tvg-id="tvbbeimei/null4" tvg-logo="" provider="北美TVB" provider-logo="" provider-type="iptv",娱乐新闻台(北美) [北美TVB]
+http://192.168.68.119:18484/stream/tvbbeimei/null4/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:3 group-title="北美TVB" tvg-id="tvbbeimei/null5" tvg-logo="" provider="北美TVB" provider-logo="" provider-type="iptv",无线新闻台(北美) [北美TVB]
+http://192.168.68.119:18484/stream/tvbbeimei/null5/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:4 group-title="北美TVB" tvg-id="tvbbeimei/null" tvg-logo="" provider="北美TVB" provider-logo="" provider-type="iptv",明珠剧集台(北美) [北美TVB]
+http://192.168.68.119:18484/stream/tvbbeimei/null/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:5 group-title="北美TVB" tvg-id="tvbbeimei/null1" tvg-logo="" provider="北美TVB" provider-logo="" provider-type="iptv",翡翠剧集台(北美) [北美TVB]
+http://192.168.68.119:18484/stream/tvbbeimei/null1/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:6 group-title="北美TVB" tvg-id="tvbbeimei/null3" tvg-logo="" provider="北美TVB" provider-logo="" provider-type="iptv",翡翠台(北美) [北美TVB]
+http://192.168.68.119:18484/stream/tvbbeimei/null3/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
+#EXTINF:7 group-title="北美TVB" tvg-id="tvbbeimei/null2" tvg-logo="" provider="北美TVB" provider-logo="" provider-type="iptv",翡翠综合台(北美) [北美TVB]
+http://192.168.68.119:18484/stream/tvbbeimei/null2/master.m3u8?u=admin&p=b96bc5abc331e5749501ef5aa2e1d47522c5e3d0196432453005e3f5cc943846
+
