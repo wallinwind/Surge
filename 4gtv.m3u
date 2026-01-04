@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL http://127.0.0.1:50007/m3u8view?token=smHGAiJgR9R8g6WWmOKVFCYrKcyi56s70rytEnl9c8Ui2aJ2prjDYScZA6TkxB8L
+#EXT-X-SUB-URL http://192.168.68.119:50007/m3u8view?token=smHGAiJgR9R8g6WWmOKVFCYrKcyi56s70rytEnl9c8Ui2aJ2prjDYScZA6TkxB8L
 
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="綜合",民視第一台
 http://192.168.68.119:50007/play/4gtv-4gtv003/index.m3u8?token=smHGAiJgR9R8g6WWmOKVFCYrKcyi56s70rytEnl9c8Ui2aJ2prjDYScZA6TkxB8L&type=proxy
