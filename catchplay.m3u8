@@ -1,0 +1,77 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="catchplay" tvg-id="catchplay/tvbs55" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",TVBS 55 新聞台 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/tvbs55/master.m3u8?u=catchplay&p=
+
+#EXTINF:2 group-title="catchplay" tvg-id="catchplay/tvbs56" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",TVBS 56 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/tvbs56/master.m3u8?u=catchplay&p=
+
+#EXTINF:3 group-title="catchplay" tvg-id="catchplay/tvbsnews" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",TVBS NEWS-互動直播 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/tvbsnews/master.m3u8?u=catchplay&p=
+
+#EXTINF:4 group-title="catchplay" tvg-id="catchplay/null" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",台視新聞 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/null/master.m3u8?u=catchplay&p=
+
+#EXTINF:5 group-title="catchplay" tvg-id="catchplay/null1" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",東森新聞 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/null1/master.m3u8?u=catchplay&p=
+
+#EXTINF:6 group-title="catchplay" tvg-id="catchplay/null2" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",非凡新聞 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/null2/master.m3u8?u=catchplay&p=
+
+#EXTINF:7 group-title="catchplay" tvg-id="catchplay/null3" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",東森財經 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/null3/master.m3u8?u=catchplay&p=
+
+#EXTINF:8 group-title="catchplay" tvg-id="catchplay/null4" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",民視新聞 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/null4/master.m3u8?u=catchplay&p=
+
+#EXTINF:9 group-title="catchplay" tvg-id="catchplay/bbcnews" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",BBC News [catchplay]
+http://192.168.68.119:18484/stream/catchplay/bbcnews/master.m3u8?u=catchplay&p=
+
+#EXTINF:10 group-title="catchplay" tvg-id="catchplay/cnbcasia" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",CNBC Asia [catchplay]
+http://192.168.68.119:18484/stream/catchplay/cnbcasia/master.m3u8?u=catchplay&p=
+
+#EXTINF:11 group-title="catchplay" tvg-id="catchplay/nhkworldjapan" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",NHK WORLD-JAPAN [catchplay]
+http://192.168.68.119:18484/stream/catchplay/nhkworldjapan/master.m3u8?u=catchplay&p=
+
+#EXTINF:12 group-title="catchplay" tvg-id="catchplay/null5" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",民視第一台 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/null5/master.m3u8?u=catchplay&p=
+
+#EXTINF:13 group-title="catchplay" tvg-id="catchplay/bbclifestyle" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",BBC Lifestyle [catchplay]
+http://192.168.68.119:18484/stream/catchplay/bbclifestyle/master.m3u8?u=catchplay&p=
+
+#EXTINF:14 group-title="catchplay" tvg-id="catchplay/bbcearth" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",BBC Earth [catchplay]
+http://192.168.68.119:18484/stream/catchplay/bbcearth/master.m3u8?u=catchplay&p=
+
+#EXTINF:15 group-title="catchplay" tvg-id="catchplay/tvbs42" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",TVBS 42 歡樂台 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/tvbs42/master.m3u8?u=catchplay&p=
+
+#EXTINF:16 group-title="catchplay" tvg-id="catchplay/rockglobaltrekker" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",ROCK Global Trekker [catchplay]
+http://192.168.68.119:18484/stream/catchplay/rockglobaltrekker/master.m3u8?u=catchplay&p=
+
+#EXTINF:17 group-title="catchplay" tvg-id="catchplay/cnex" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",CNEX [catchplay]
+http://192.168.68.119:18484/stream/catchplay/cnex/master.m3u8?u=catchplay&p=
+
+#EXTINF:18 group-title="catchplay" tvg-id="catchplay/rockentertainment" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",ROCK Entertainment 搖滾娛樂頻道 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/rockentertainment/master.m3u8?u=catchplay&p=
+
+#EXTINF:19 group-title="catchplay" tvg-id="catchplay/rockaction" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",ROCK Action 電影頻道 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/rockaction/master.m3u8?u=catchplay&p=
+
+#EXTINF:20 group-title="catchplay" tvg-id="catchplay/rockextreme" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",ROCK Extreme 搖滾極限頻道 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/rockextreme/master.m3u8?u=catchplay&p=
+
+#EXTINF:21 group-title="catchplay" tvg-id="catchplay/goodtv" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",Good TV [catchplay]
+http://192.168.68.119:18484/stream/catchplay/goodtv/master.m3u8?u=catchplay&p=
+
+#EXTINF:22 group-title="catchplay" tvg-id="catchplay/null23" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",龍華戲劇台 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/null23/master.m3u8?u=catchplay&p=
+
+#EXTINF:23 group-title="catchplay" tvg-id="catchplay/null24" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",龍華偶像台 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/null24/master.m3u8?u=catchplay&p=
+
+#EXTINF:24 group-title="catchplay" tvg-id="catchplay/null47" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",博斯運動一台 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/null47/master.m3u8?u=catchplay&p=
+
+#EXTINF:25 group-title="catchplay" tvg-id="catchplay/null48" tvg-logo="" provider="catchplay" provider-logo="" provider-type="iptv",博斯運動二台 [catchplay]
+http://192.168.68.119:18484/stream/catchplay/null48/master.m3u8?u=catchplay&p=
+
