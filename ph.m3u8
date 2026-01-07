@@ -1,0 +1,218 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="ph" tvg-id="ph/a2z" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",A2Z [ph]
+http://192.168.68.119:18484/stream/ph/a2z/master.m3u8?u=ph&p=
+
+#EXTINF:2 group-title="ph" tvg-id="ph/oneph" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",One PH [ph]
+http://192.168.68.119:18484/stream/ph/oneph/master.m3u8?u=ph&p=
+
+#EXTINF:3 group-title="ph" tvg-id="ph/buko" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Buko [ph]
+http://192.168.68.119:18484/stream/ph/buko/master.m3u8?u=ph&p=
+
+#EXTINF:4 group-title="ph" tvg-id="ph/sarisari" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Sari-Sari [ph]
+http://192.168.68.119:18484/stream/ph/sarisari/master.m3u8?u=ph&p=
+
+#EXTINF:5 group-title="ph" tvg-id="ph/tv5" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",TV5 [ph]
+http://192.168.68.119:18484/stream/ph/tv5/master.m3u8?u=ph&p=
+
+#EXTINF:6 group-title="ph" tvg-id="ph/lotusmacau" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Lotus Macau [ph]
+http://192.168.68.119:18484/stream/ph/lotusmacau/master.m3u8?u=ph&p=
+
+#EXTINF:7 group-title="ph" tvg-id="ph/tvup" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",TVUP [ph]
+http://192.168.68.119:18484/stream/ph/tvup/master.m3u8?u=ph&p=
+
+#EXTINF:8 group-title="ph" tvg-id="ph/thrill" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Thrill [ph]
+http://192.168.68.119:18484/stream/ph/thrill/master.m3u8?u=ph&p=
+
+#EXTINF:9 group-title="ph" tvg-id="ph/axn" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",AXN [ph]
+http://192.168.68.119:18484/stream/ph/axn/master.m3u8?u=ph&p=
+
+#EXTINF:10 group-title="ph" tvg-id="ph/hits" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Hits [ph]
+http://192.168.68.119:18484/stream/ph/hits/master.m3u8?u=ph&p=
+
+#EXTINF:11 group-title="ph" tvg-id="ph/hitsnow" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Hits Now [ph]
+http://192.168.68.119:18484/stream/ph/hitsnow/master.m3u8?u=ph&p=
+
+#EXTINF:12 group-title="ph" tvg-id="ph/ibc13" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",IBC13 [ph]
+http://192.168.68.119:18484/stream/ph/ibc13/master.m3u8?u=ph&p=
+
+#EXTINF:13 group-title="ph" tvg-id="ph/truetv" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",True TV [ph]
+http://192.168.68.119:18484/stream/ph/truetv/master.m3u8?u=ph&p=
+
+#EXTINF:14 group-title="ph" tvg-id="ph/tvnpremium" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",TVN Premium [ph]
+http://192.168.68.119:18484/stream/ph/tvnpremium/master.m3u8?u=ph&p=
+
+#EXTINF:15 group-title="ph" tvg-id="ph/kbsworld" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",KBS World [ph]
+http://192.168.68.119:18484/stream/ph/kbsworld/master.m3u8?u=ph&p=
+
+#EXTINF:16 group-title="ph" tvg-id="ph/taptv" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Tap TV [ph]
+http://192.168.68.119:18484/stream/ph/taptv/master.m3u8?u=ph&p=
+
+#EXTINF:17 group-title="ph" tvg-id="ph/globaltrekker" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Global Trekker [ph]
+http://192.168.68.119:18484/stream/ph/globaltrekker/master.m3u8?u=ph&p=
+
+#EXTINF:18 group-title="ph" tvg-id="ph/rockaction" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Rock Action [ph]
+http://192.168.68.119:18484/stream/ph/rockaction/master.m3u8?u=ph&p=
+
+#EXTINF:19 group-title="ph" tvg-id="ph/rockentertainment" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Rock Entertainment [ph]
+http://192.168.68.119:18484/stream/ph/rockentertainment/master.m3u8?u=ph&p=
+
+#EXTINF:20 group-title="ph" tvg-id="ph/tvnmoviespinoy" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",TVN Movies Pinoy [ph]
+http://192.168.68.119:18484/stream/ph/tvnmoviespinoy/master.m3u8?u=ph&p=
+
+#EXTINF:21 group-title="ph" tvg-id="ph/pbo" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",PBO [ph]
+http://192.168.68.119:18484/stream/ph/pbo/master.m3u8?u=ph&p=
+
+#EXTINF:22 group-title="ph" tvg-id="ph/vivacinema" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Viva Cinema [ph]
+http://192.168.68.119:18484/stream/ph/vivacinema/master.m3u8?u=ph&p=
+
+#EXTINF:23 group-title="ph" tvg-id="ph/tmc" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",TMC [ph]
+http://192.168.68.119:18484/stream/ph/tmc/master.m3u8?u=ph&p=
+
+#EXTINF:24 group-title="ph" tvg-id="ph/tapmovies" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Tap Movies [ph]
+http://192.168.68.119:18484/stream/ph/tapmovies/master.m3u8?u=ph&p=
+
+#EXTINF:25 group-title="ph" tvg-id="ph/hbo" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",HBO [ph]
+http://192.168.68.119:18484/stream/ph/hbo/master.m3u8?u=ph&p=
+
+#EXTINF:26 group-title="ph" tvg-id="ph/hbohits" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",HBO Hits [ph]
+http://192.168.68.119:18484/stream/ph/hbohits/master.m3u8?u=ph&p=
+
+#EXTINF:27 group-title="ph" tvg-id="ph/hbofamily" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",HBO Family [ph]
+http://192.168.68.119:18484/stream/ph/hbofamily/master.m3u8?u=ph&p=
+
+#EXTINF:28 group-title="ph" tvg-id="ph/hbosignature" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",HBO Signature [ph]
+http://192.168.68.119:18484/stream/ph/hbosignature/master.m3u8?u=ph&p=
+
+#EXTINF:29 group-title="ph" tvg-id="ph/hitsmovies" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",HITS Movies [ph]
+http://192.168.68.119:18484/stream/ph/hitsmovies/master.m3u8?u=ph&p=
+
+#EXTINF:30 group-title="ph" tvg-id="ph/tapactionflix" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Tap Action Flix [ph]
+http://192.168.68.119:18484/stream/ph/tapactionflix/master.m3u8?u=ph&p=
+
+#EXTINF:31 group-title="ph" tvg-id="ph/cinemax" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Cinemax [ph]
+http://192.168.68.119:18484/stream/ph/cinemax/master.m3u8?u=ph&p=
+
+#EXTINF:32 group-title="ph" tvg-id="ph/nbatvphilippines" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",NBA TV Philippines [ph]
+http://192.168.68.119:18484/stream/ph/nbatvphilippines/master.m3u8?u=ph&p=
+
+#EXTINF:33 group-title="ph" tvg-id="ph/pbarush" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",PBA Rush [ph]
+http://192.168.68.119:18484/stream/ph/pbarush/master.m3u8?u=ph&p=
+
+#EXTINF:34 group-title="ph" tvg-id="ph/onesports" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",One Sports [ph]
+http://192.168.68.119:18484/stream/ph/onesports/master.m3u8?u=ph&p=
+
+#EXTINF:35 group-title="ph" tvg-id="ph/onesports1" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",One Sports+ [ph]
+http://192.168.68.119:18484/stream/ph/onesports1/master.m3u8?u=ph&p=
+
+#EXTINF:36 group-title="ph" tvg-id="ph/uaapvarsitychannel" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",UAAP Varsity Channel [ph]
+http://192.168.68.119:18484/stream/ph/uaapvarsitychannel/master.m3u8?u=ph&p=
+
+#EXTINF:37 group-title="ph" tvg-id="ph/tapsports" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",TAP Sports [ph]
+http://192.168.68.119:18484/stream/ph/tapsports/master.m3u8?u=ph&p=
+
+#EXTINF:38 group-title="ph" tvg-id="ph/premiersports" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Premier Sports [ph]
+http://192.168.68.119:18484/stream/ph/premiersports/master.m3u8?u=ph&p=
+
+#EXTINF:39 group-title="ph" tvg-id="ph/premiersports2" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Premier Sports 2 [ph]
+http://192.168.68.119:18484/stream/ph/premiersports2/master.m3u8?u=ph&p=
+
+#EXTINF:40 group-title="ph" tvg-id="ph/spotv" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",SPOTV [ph]
+http://192.168.68.119:18484/stream/ph/spotv/master.m3u8?u=ph&p=
+
+#EXTINF:41 group-title="ph" tvg-id="ph/spotv2" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",SPOTV2 [ph]
+http://192.168.68.119:18484/stream/ph/spotv2/master.m3u8?u=ph&p=
+
+#EXTINF:42 group-title="ph" tvg-id="ph/animax" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Animax [ph]
+http://192.168.68.119:18484/stream/ph/animax/master.m3u8?u=ph&p=
+
+#EXTINF:43 group-title="ph" tvg-id="ph/dreamworks" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",DreamWorks [ph]
+http://192.168.68.119:18484/stream/ph/dreamworks/master.m3u8?u=ph&p=
+
+#EXTINF:44 group-title="ph" tvg-id="ph/dreamworkstagalog" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Dreamworks Tagalog [ph]
+http://192.168.68.119:18484/stream/ph/dreamworkstagalog/master.m3u8?u=ph&p=
+
+#EXTINF:45 group-title="ph" tvg-id="ph/moonbugkids" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Moonbug Kids [ph]
+http://192.168.68.119:18484/stream/ph/moonbugkids/master.m3u8?u=ph&p=
+
+#EXTINF:46 group-title="ph" tvg-id="ph/cartoonnetwork" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Cartoon Network [ph]
+http://192.168.68.119:18484/stream/ph/cartoonnetwork/master.m3u8?u=ph&p=
+
+#EXTINF:47 group-title="ph" tvg-id="ph/nickelodeon" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Nickelodeon [ph]
+http://192.168.68.119:18484/stream/ph/nickelodeon/master.m3u8?u=ph&p=
+
+#EXTINF:48 group-title="ph" tvg-id="ph/nickjr" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Nick Jr [ph]
+http://192.168.68.119:18484/stream/ph/nickjr/master.m3u8?u=ph&p=
+
+#EXTINF:49 group-title="ph" tvg-id="ph/ptv" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",PTV [ph]
+http://192.168.68.119:18484/stream/ph/ptv/master.m3u8?u=ph&p=
+
+#EXTINF:50 group-title="ph" tvg-id="ph/rptv" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",RPTV [ph]
+http://192.168.68.119:18484/stream/ph/rptv/master.m3u8?u=ph&p=
+
+#EXTINF:51 group-title="ph" tvg-id="ph/bilyonaryonewschannel" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Bilyonaryo News Channel [ph]
+http://192.168.68.119:18484/stream/ph/bilyonaryonewschannel/master.m3u8?u=ph&p=
+
+#EXTINF:52 group-title="ph" tvg-id="ph/cnninternational" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",CNN International [ph]
+http://192.168.68.119:18484/stream/ph/cnninternational/master.m3u8?u=ph&p=
+
+#EXTINF:53 group-title="ph" tvg-id="ph/bbcworldnews" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",BBC World News [ph]
+http://192.168.68.119:18484/stream/ph/bbcworldnews/master.m3u8?u=ph&p=
+
+#EXTINF:54 group-title="ph" tvg-id="ph/bloomberg" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Bloomberg [ph]
+http://192.168.68.119:18484/stream/ph/bloomberg/master.m3u8?u=ph&p=
+
+#EXTINF:55 group-title="ph" tvg-id="ph/abcaustralia" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",ABC Australia [ph]
+http://192.168.68.119:18484/stream/ph/abcaustralia/master.m3u8?u=ph&p=
+
+#EXTINF:56 group-title="ph" tvg-id="ph/cctv4" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",CCTV4 [ph]
+http://192.168.68.119:18484/stream/ph/cctv4/master.m3u8?u=ph&p=
+
+#EXTINF:57 group-title="ph" tvg-id="ph/france24" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",France 24 [ph]
+http://192.168.68.119:18484/stream/ph/france24/master.m3u8?u=ph&p=
+
+#EXTINF:58 group-title="ph" tvg-id="ph/tv5monde" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",TV5 Monde [ph]
+http://192.168.68.119:18484/stream/ph/tv5monde/master.m3u8?u=ph&p=
+
+#EXTINF:59 group-title="ph" tvg-id="ph/onenews" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",One News [ph]
+http://192.168.68.119:18484/stream/ph/onenews/master.m3u8?u=ph&p=
+
+#EXTINF:60 group-title="ph" tvg-id="ph/lifetime" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Lifetime [ph]
+http://192.168.68.119:18484/stream/ph/lifetime/master.m3u8?u=ph&p=
+
+#EXTINF:61 group-title="ph" tvg-id="ph/asianfoodnetwork" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Asian Food Network [ph]
+http://192.168.68.119:18484/stream/ph/asianfoodnetwork/master.m3u8?u=ph&p=
+
+#EXTINF:62 group-title="ph" tvg-id="ph/foodnetwork" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Food Network [ph]
+http://192.168.68.119:18484/stream/ph/foodnetwork/master.m3u8?u=ph&p=
+
+#EXTINF:63 group-title="ph" tvg-id="ph/hgtv" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",HGTV [ph]
+http://192.168.68.119:18484/stream/ph/hgtv/master.m3u8?u=ph&p=
+
+#EXTINF:64 group-title="ph" tvg-id="ph/ftv" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",FTV [ph]
+http://192.168.68.119:18484/stream/ph/ftv/master.m3u8?u=ph&p=
+
+#EXTINF:65 group-title="ph" tvg-id="ph/travelchannel" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Travel Channel [ph]
+http://192.168.68.119:18484/stream/ph/travelchannel/master.m3u8?u=ph&p=
+
+#EXTINF:66 group-title="ph" tvg-id="ph/history" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",History [ph]
+http://192.168.68.119:18484/stream/ph/history/master.m3u8?u=ph&p=
+
+#EXTINF:67 group-title="ph" tvg-id="ph/crimeinvestigation" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Crime+Investigation [ph]
+http://192.168.68.119:18484/stream/ph/crimeinvestigation/master.m3u8?u=ph&p=
+
+#EXTINF:68 group-title="ph" tvg-id="ph/discoverychannel" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Discovery Channel [ph]
+http://192.168.68.119:18484/stream/ph/discoverychannel/master.m3u8?u=ph&p=
+
+#EXTINF:69 group-title="ph" tvg-id="ph/animalplanet" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",Animal Planet [ph]
+http://192.168.68.119:18484/stream/ph/animalplanet/master.m3u8?u=ph&p=
+
+#EXTINF:70 group-title="ph" tvg-id="ph/bbcearth" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",BBC Earth [ph]
+http://192.168.68.119:18484/stream/ph/bbcearth/master.m3u8?u=ph&p=
+
+#EXTINF:71 group-title="ph" tvg-id="ph/tvmaria" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",TV Maria [ph]
+http://192.168.68.119:18484/stream/ph/tvmaria/master.m3u8?u=ph&p=
+
+#EXTINF:72 group-title="ph" tvg-id="ph/depedtv" tvg-logo="" provider="ph" provider-logo="" provider-type="iptv",DepEd TV [ph]
+http://192.168.68.119:18484/stream/ph/depedtv/master.m3u8?u=ph&p=
+
