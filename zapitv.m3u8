@@ -1,0 +1,326 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="zapitv" tvg-id="zapitv/la1" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LA 1 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/la1/master.m3u8?u=zapitv&p=
+
+#EXTINF:2 group-title="zapitv" tvg-id="zapitv/la2" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LA 2 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/la2/master.m3u8?u=zapitv&p=
+
+#EXTINF:3 group-title="zapitv" tvg-id="zapitv/antena3" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",ANTENA 3 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/antena3/master.m3u8?u=zapitv&p=
+
+#EXTINF:4 group-title="zapitv" tvg-id="zapitv/cuatro" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",CUATRO [zapitv]
+http://192.168.68.119:18484/stream/zapitv/cuatro/master.m3u8?u=zapitv&p=
+
+#EXTINF:5 group-title="zapitv" tvg-id="zapitv/telecinco" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",TELECINCO [zapitv]
+http://192.168.68.119:18484/stream/zapitv/telecinco/master.m3u8?u=zapitv&p=
+
+#EXTINF:6 group-title="zapitv" tvg-id="zapitv/lasexta" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LA SEXTA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/lasexta/master.m3u8?u=zapitv&p=
+
+#EXTINF:7 group-title="zapitv" tvg-id="zapitv/canalsur" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",CANAL SUR [zapitv]
+http://192.168.68.119:18484/stream/zapitv/canalsur/master.m3u8?u=zapitv&p=
+
+#EXTINF:8 group-title="zapitv" tvg-id="zapitv/ptvmalaga" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",PTV MALAGA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/ptvmalaga/master.m3u8?u=zapitv&p=
+
+#EXTINF:9 group-title="zapitv" tvg-id="zapitv/ptvcordoba" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",PTV CORDOBA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/ptvcordoba/master.m3u8?u=zapitv&p=
+
+#EXTINF:10 group-title="zapitv" tvg-id="zapitv/ptvsevilla" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",PTV SEVILLA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/ptvsevilla/master.m3u8?u=zapitv&p=
+
+#EXTINF:11 group-title="zapitv" tvg-id="zapitv/comedycentral" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",COMEDY CENTRAL [zapitv]
+http://192.168.68.119:18484/stream/zapitv/comedycentral/master.m3u8?u=zapitv&p=
+
+#EXTINF:12 group-title="zapitv" tvg-id="zapitv/starchannel" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",STAR CHANNEL [zapitv]
+http://192.168.68.119:18484/stream/zapitv/starchannel/master.m3u8?u=zapitv&p=
+
+#EXTINF:13 group-title="zapitv" tvg-id="zapitv/globaltendencias" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",GLOBAL TENDENCIAS [zapitv]
+http://192.168.68.119:18484/stream/zapitv/globaltendencias/master.m3u8?u=zapitv&p=
+
+#EXTINF:14 group-title="zapitv" tvg-id="zapitv/canallasestrellas" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",CANAL LASESTRELLAS [zapitv]
+http://192.168.68.119:18484/stream/zapitv/canallasestrellas/master.m3u8?u=zapitv&p=
+
+#EXTINF:15 group-title="zapitv" tvg-id="zapitv/globaltelenovelas" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",GLOBAL TELENOVELAS [zapitv]
+http://192.168.68.119:18484/stream/zapitv/globaltelenovelas/master.m3u8?u=zapitv&p=
+
+#EXTINF:16 group-title="zapitv" tvg-id="zapitv/tlnovelas" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",TLNOVELAS [zapitv]
+http://192.168.68.119:18484/stream/zapitv/tlnovelas/master.m3u8?u=zapitv&p=
+
+#EXTINF:17 group-title="zapitv" tvg-id="zapitv/dpdepeliculas" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",DP DE PELICULAS [zapitv]
+http://192.168.68.119:18484/stream/zapitv/dpdepeliculas/master.m3u8?u=zapitv&p=
+
+#EXTINF:18 group-title="zapitv" tvg-id="zapitv/cocina4k" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",COCINA 4K [zapitv]
+http://192.168.68.119:18484/stream/zapitv/cocina4k/master.m3u8?u=zapitv&p=
+
+#EXTINF:19 group-title="zapitv" tvg-id="zapitv/decasa4k" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",DECASA 4K [zapitv]
+http://192.168.68.119:18484/stream/zapitv/decasa4k/master.m3u8?u=zapitv&p=
+
+#EXTINF:20 group-title="zapitv" tvg-id="zapitv/squirrel" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",SQUIRREL [zapitv]
+http://192.168.68.119:18484/stream/zapitv/squirrel/master.m3u8?u=zapitv&p=
+
+#EXTINF:21 group-title="zapitv" tvg-id="zapitv/disneyjr" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",DISNEY JR [zapitv]
+http://192.168.68.119:18484/stream/zapitv/disneyjr/master.m3u8?u=zapitv&p=
+
+#EXTINF:22 group-title="zapitv" tvg-id="zapitv/babytv" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",BABY TV [zapitv]
+http://192.168.68.119:18484/stream/zapitv/babytv/master.m3u8?u=zapitv&p=
+
+#EXTINF:23 group-title="zapitv" tvg-id="zapitv/enfamilia" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",ENFAMILIA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/enfamilia/master.m3u8?u=zapitv&p=
+
+#EXTINF:24 group-title="zapitv" tvg-id="zapitv/teledeportehd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",TELEDEPORTE HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/teledeportehd/master.m3u8?u=zapitv&p=
+
+#EXTINF:25 group-title="zapitv" tvg-id="zapitv/realmadridtvhd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",REAL MADRID TV HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/realmadridtvhd/master.m3u8?u=zapitv&p=
+
+#EXTINF:26 group-title="zapitv" tvg-id="zapitv/clantvhd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",CLAN TV HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/clantvhd/master.m3u8?u=zapitv&p=
+
+#EXTINF:27 group-title="zapitv" tvg-id="zapitv/nickelodeon" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",NICKELODEON [zapitv]
+http://192.168.68.119:18484/stream/zapitv/nickelodeon/master.m3u8?u=zapitv&p=
+
+#EXTINF:28 group-title="zapitv" tvg-id="zapitv/redbulltv" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",RED BULL TV [zapitv]
+http://192.168.68.119:18484/stream/zapitv/redbulltv/master.m3u8?u=zapitv&p=
+
+#EXTINF:29 group-title="zapitv" tvg-id="zapitv/surfchannel" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",SURF CHANNEL [zapitv]
+http://192.168.68.119:18484/stream/zapitv/surfchannel/master.m3u8?u=zapitv&p=
+
+#EXTINF:30 group-title="zapitv" tvg-id="zapitv/nickjr" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",NICK JR [zapitv]
+http://192.168.68.119:18484/stream/zapitv/nickjr/master.m3u8?u=zapitv&p=
+
+#EXTINF:31 group-title="zapitv" tvg-id="zapitv/boing" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",BOING [zapitv]
+http://192.168.68.119:18484/stream/zapitv/boing/master.m3u8?u=zapitv&p=
+
+#EXTINF:32 group-title="zapitv" tvg-id="zapitv/hollywoodhd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",HOLLYWOOD HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/hollywoodhd/master.m3u8?u=zapitv&p=
+
+#EXTINF:33 group-title="zapitv" tvg-id="zapitv/amchd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",AMC HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/amchd/master.m3u8?u=zapitv&p=
+
+#EXTINF:34 group-title="zapitv" tvg-id="zapitv/tcmmoderno" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",TCM MODERNO [zapitv]
+http://192.168.68.119:18484/stream/zapitv/tcmmoderno/master.m3u8?u=zapitv&p=
+
+#EXTINF:35 group-title="zapitv" tvg-id="zapitv/xtrmhd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",XTRM HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/xtrmhd/master.m3u8?u=zapitv&p=
+
+#EXTINF:36 group-title="zapitv" tvg-id="zapitv/energy" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",ENERGY [zapitv]
+http://192.168.68.119:18484/stream/zapitv/energy/master.m3u8?u=zapitv&p=
+
+#EXTINF:37 group-title="zapitv" tvg-id="zapitv/eurosport1hd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",EUROSPORT 1 HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/eurosport1hd/master.m3u8?u=zapitv&p=
+
+#EXTINF:38 group-title="zapitv" tvg-id="zapitv/eurosport2hd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",EUROSPORT 2 HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/eurosport2hd/master.m3u8?u=zapitv&p=
+
+#EXTINF:39 group-title="zapitv" tvg-id="zapitv/amcbreak" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",AMC BREAK [zapitv]
+http://192.168.68.119:18484/stream/zapitv/amcbreak/master.m3u8?u=zapitv&p=
+
+#EXTINF:40 group-title="zapitv" tvg-id="zapitv/escapatv" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",ESCAPA TV [zapitv]
+http://192.168.68.119:18484/stream/zapitv/escapatv/master.m3u8?u=zapitv&p=
+
+#EXTINF:41 group-title="zapitv" tvg-id="zapitv/ewtv" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",EWTV [zapitv]
+http://192.168.68.119:18484/stream/zapitv/ewtv/master.m3u8?u=zapitv&p=
+
+#EXTINF:42 group-title="zapitv" tvg-id="zapitv/eltoro" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",EL TORO [zapitv]
+http://192.168.68.119:18484/stream/zapitv/eltoro/master.m3u8?u=zapitv&p=
+
+#EXTINF:43 group-title="zapitv" tvg-id="zapitv/dkisstv" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",DKISS TV [zapitv]
+http://192.168.68.119:18484/stream/zapitv/dkisstv/master.m3u8?u=zapitv&p=
+
+#EXTINF:44 group-title="zapitv" tvg-id="zapitv/ten" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",TEN [zapitv]
+http://192.168.68.119:18484/stream/zapitv/ten/master.m3u8?u=zapitv&p=
+
+#EXTINF:45 group-title="zapitv" tvg-id="zapitv/paramountchannel" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",PARAMOUNT CHANNEL [zapitv]
+http://192.168.68.119:18484/stream/zapitv/paramountchannel/master.m3u8?u=zapitv&p=
+
+#EXTINF:46 group-title="zapitv" tvg-id="zapitv/bom" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",BOM [zapitv]
+http://192.168.68.119:18484/stream/zapitv/bom/master.m3u8?u=zapitv&p=
+
+#EXTINF:47 group-title="zapitv" tvg-id="zapitv/bemadhd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",BEMAD HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/bemadhd/master.m3u8?u=zapitv&p=
+
+#EXTINF:48 group-title="zapitv" tvg-id="zapitv/discoverychannelhd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",DISCOVERY CHANNEL HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/discoverychannelhd/master.m3u8?u=zapitv&p=
+
+#EXTINF:49 group-title="zapitv" tvg-id="zapitv/fdf" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",FDF [zapitv]
+http://192.168.68.119:18484/stream/zapitv/fdf/master.m3u8?u=zapitv&p=
+
+#EXTINF:50 group-title="zapitv" tvg-id="zapitv/buenviaje" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",BUENVIAJE [zapitv]
+http://192.168.68.119:18484/stream/zapitv/buenviaje/master.m3u8?u=zapitv&p=
+
+#EXTINF:51 group-title="zapitv" tvg-id="zapitv/dark" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",DARK [zapitv]
+http://192.168.68.119:18484/stream/zapitv/dark/master.m3u8?u=zapitv&p=
+
+#EXTINF:52 group-title="zapitv" tvg-id="zapitv/amccrime" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",AMC CRIME [zapitv]
+http://192.168.68.119:18484/stream/zapitv/amccrime/master.m3u8?u=zapitv&p=
+
+#EXTINF:53 group-title="zapitv" tvg-id="zapitv/nova" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",NOVA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/nova/master.m3u8?u=zapitv&p=
+
+#EXTINF:54 group-title="zapitv" tvg-id="zapitv/neox" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",NEOX [zapitv]
+http://192.168.68.119:18484/stream/zapitv/neox/master.m3u8?u=zapitv&p=
+
+#EXTINF:55 group-title="zapitv" tvg-id="zapitv/mega" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",MEGA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/mega/master.m3u8?u=zapitv&p=
+
+#EXTINF:56 group-title="zapitv" tvg-id="zapitv/atreserieshd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",ATRESERIES HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/atreserieshd/master.m3u8?u=zapitv&p=
+
+#EXTINF:57 group-title="zapitv" tvg-id="zapitv/mtvhits" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",MTV HITS [zapitv]
+http://192.168.68.119:18484/stream/zapitv/mtvhits/master.m3u8?u=zapitv&p=
+
+#EXTINF:58 group-title="zapitv" tvg-id="zapitv/mtv00s" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",MTV 00´s [zapitv]
+http://192.168.68.119:18484/stream/zapitv/mtv00s/master.m3u8?u=zapitv&p=
+
+#EXTINF:59 group-title="zapitv" tvg-id="zapitv/mtvespaa" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",MTV ESPAÑA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/mtvespaa/master.m3u8?u=zapitv&p=
+
+#EXTINF:60 group-title="zapitv" tvg-id="zapitv/mtv80s" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",MTV 80´s [zapitv]
+http://192.168.68.119:18484/stream/zapitv/mtv80s/master.m3u8?u=zapitv&p=
+
+#EXTINF:61 group-title="zapitv" tvg-id="zapitv/apunthd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",A PUNT HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/apunthd/master.m3u8?u=zapitv&p=
+
+#EXTINF:62 group-title="zapitv" tvg-id="zapitv/telemadridhd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",TELE MADRID HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/telemadridhd/master.m3u8?u=zapitv&p=
+
+#EXTINF:63 group-title="zapitv" tvg-id="zapitv/laotra" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LA OTRA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laotra/master.m3u8?u=zapitv&p=
+
+#EXTINF:64 group-title="zapitv" tvg-id="zapitv/cmthd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",CMT HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/cmthd/master.m3u8?u=zapitv&p=
+
+#EXTINF:65 group-title="zapitv" tvg-id="zapitv/7rmhd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",7RM HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/7rmhd/master.m3u8?u=zapitv&p=
+
+#EXTINF:66 group-title="zapitv" tvg-id="zapitv/extremaduratv" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",EXTREMADURA TV [zapitv]
+http://192.168.68.119:18484/stream/zapitv/extremaduratv/master.m3u8?u=zapitv&p=
+
+#EXTINF:67 group-title="zapitv" tvg-id="zapitv/tvgalicia" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",TV Galicia [zapitv]
+http://192.168.68.119:18484/stream/zapitv/tvgalicia/master.m3u8?u=zapitv&p=
+
+#EXTINF:68 group-title="zapitv" tvg-id="zapitv/tv3hd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",TV3 HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/tv3hd/master.m3u8?u=zapitv&p=
+
+#EXTINF:69 group-title="zapitv" tvg-id="zapitv/rektv" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",REKTV [zapitv]
+http://192.168.68.119:18484/stream/zapitv/rektv/master.m3u8?u=zapitv&p=
+
+#EXTINF:70 group-title="zapitv" tvg-id="zapitv/torole" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",TOROLE [zapitv]
+http://192.168.68.119:18484/stream/zapitv/torole/master.m3u8?u=zapitv&p=
+
+#EXTINF:71 group-title="zapitv" tvg-id="zapitv/dejatetv" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",DEJATETV [zapitv]
+http://192.168.68.119:18484/stream/zapitv/dejatetv/master.m3u8?u=zapitv&p=
+
+#EXTINF:72 group-title="zapitv" tvg-id="zapitv/motoadvhd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",MOTO ADV HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/motoadvhd/master.m3u8?u=zapitv&p=
+
+#EXTINF:73 group-title="zapitv" tvg-id="zapitv/trecetv" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",TRECETV [zapitv]
+http://192.168.68.119:18484/stream/zapitv/trecetv/master.m3u8?u=zapitv&p=
+
+#EXTINF:74 group-title="zapitv" tvg-id="zapitv/libertaddigital" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LIBERTADDIGITAL [zapitv]
+http://192.168.68.119:18484/stream/zapitv/libertaddigital/master.m3u8?u=zapitv&p=
+
+#EXTINF:75 group-title="zapitv" tvg-id="zapitv/dbike" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",DBIKE [zapitv]
+http://192.168.68.119:18484/stream/zapitv/dbike/master.m3u8?u=zapitv&p=
+
+#EXTINF:76 group-title="zapitv" tvg-id="zapitv/canalcofrade" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",CANAL COFRADE [zapitv]
+http://192.168.68.119:18484/stream/zapitv/canalcofrade/master.m3u8?u=zapitv&p=
+
+#EXTINF:77 group-title="zapitv" tvg-id="zapitv/goltv" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",GOL TV [zapitv]
+http://192.168.68.119:18484/stream/zapitv/goltv/master.m3u8?u=zapitv&p=
+
+#EXTINF:78 group-title="zapitv" tvg-id="zapitv/somos" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",SOMOS [zapitv]
+http://192.168.68.119:18484/stream/zapitv/somos/master.m3u8?u=zapitv&p=
+
+#EXTINF:79 group-title="zapitv" tvg-id="zapitv/syfy" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",SYFY [zapitv]
+http://192.168.68.119:18484/stream/zapitv/syfy/master.m3u8?u=zapitv&p=
+
+#EXTINF:80 group-title="zapitv" tvg-id="zapitv/warnertv" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",WARNER TV [zapitv]
+http://192.168.68.119:18484/stream/zapitv/warnertv/master.m3u8?u=zapitv&p=
+
+#EXTINF:81 group-title="zapitv" tvg-id="zapitv/axn" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",AXN [zapitv]
+http://192.168.68.119:18484/stream/zapitv/axn/master.m3u8?u=zapitv&p=
+
+#EXTINF:82 group-title="zapitv" tvg-id="zapitv/axnmovies" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",AXN MOVIES [zapitv]
+http://192.168.68.119:18484/stream/zapitv/axnmovies/master.m3u8?u=zapitv&p=
+
+#EXTINF:83 group-title="zapitv" tvg-id="zapitv/calle13" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",CALLE 13 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/calle13/master.m3u8?u=zapitv&p=
+
+#EXTINF:84 group-title="zapitv" tvg-id="zapitv/sundancehd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",SUNDANCE HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/sundancehd/master.m3u8?u=zapitv&p=
+
+#EXTINF:85 group-title="zapitv" tvg-id="zapitv/telenovelas" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",TELENOVELAS [zapitv]
+http://192.168.68.119:18484/stream/zapitv/telenovelas/master.m3u8?u=zapitv&p=
+
+#EXTINF:86 group-title="zapitv" tvg-id="zapitv/divinity" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",DIVINITY [zapitv]
+http://192.168.68.119:18484/stream/zapitv/divinity/master.m3u8?u=zapitv&p=
+
+#EXTINF:87 group-title="zapitv" tvg-id="zapitv/paramountchannel-1" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",PARAMOUNT CHANNEL [zapitv]
+http://192.168.68.119:18484/stream/zapitv/paramountchannel-1/master.m3u8?u=zapitv&p=
+
+#EXTINF:88 group-title="zapitv" tvg-id="zapitv/dmax" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",DMAX [zapitv]
+http://192.168.68.119:18484/stream/zapitv/dmax/master.m3u8?u=zapitv&p=
+
+#EXTINF:89 group-title="zapitv" tvg-id="zapitv/natgeographichd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",NAT GEOGRAPHIC HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/natgeographichd/master.m3u8?u=zapitv&p=
+
+#EXTINF:90 group-title="zapitv" tvg-id="zapitv/natgeowildhd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",NAT GEO WILD HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/natgeowildhd/master.m3u8?u=zapitv&p=
+
+#EXTINF:91 group-title="zapitv" tvg-id="zapitv/historiahd" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",HISTORIA HD [zapitv]
+http://192.168.68.119:18484/stream/zapitv/historiahd/master.m3u8?u=zapitv&p=
+
+#EXTINF:92 group-title="zapitv" tvg-id="zapitv/odisea4k" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",ODISEA 4K [zapitv]
+http://192.168.68.119:18484/stream/zapitv/odisea4k/master.m3u8?u=zapitv&p=
+
+#EXTINF:93 group-title="zapitv" tvg-id="zapitv/iberalia" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",IBERALIA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/iberalia/master.m3u8?u=zapitv&p=
+
+#EXTINF:94 group-title="zapitv" tvg-id="zapitv/iberaliacaza" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",IBERALIA CAZA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/iberaliacaza/master.m3u8?u=zapitv&p=
+
+#EXTINF:95 group-title="zapitv" tvg-id="zapitv/iberaliapesca" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",IBERALIA PESCA [zapitv]
+http://192.168.68.119:18484/stream/zapitv/iberaliapesca/master.m3u8?u=zapitv&p=
+
+#EXTINF:96 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion/master.m3u8?u=zapitv&p=
+
+#EXTINF:97 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion2" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION 2 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion2/master.m3u8?u=zapitv&p=
+
+#EXTINF:98 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion3" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION 3 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion3/master.m3u8?u=zapitv&p=
+
+#EXTINF:99 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion-1" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion-1/master.m3u8?u=zapitv&p=
+
+#EXTINF:100 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion2-1" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION 2 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion2-1/master.m3u8?u=zapitv&p=
+
+#EXTINF:101 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion3-1" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION 3 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion3-1/master.m3u8?u=zapitv&p=
+
+#EXTINF:102 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion31" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION 3_1 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion31/master.m3u8?u=zapitv&p=
+
+#EXTINF:103 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion5" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION 5 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion5/master.m3u8?u=zapitv&p=
+
+#EXTINF:104 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion6" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION 6 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion6/master.m3u8?u=zapitv&p=
+
+#EXTINF:105 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion7" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION 7 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion7/master.m3u8?u=zapitv&p=
+
+#EXTINF:106 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion8" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION 8 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion8/master.m3u8?u=zapitv&p=
+
+#EXTINF:107 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion10" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION 10 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion10/master.m3u8?u=zapitv&p=
+
+#EXTINF:108 group-title="zapitv" tvg-id="zapitv/laligatvhypermotion11" tvg-logo="" provider="zapitv" provider-logo="" provider-type="iptv",LALIGA TV HYPERMOTION 11 [zapitv]
+http://192.168.68.119:18484/stream/zapitv/laligatvhypermotion11/master.m3u8?u=zapitv&p=
+
