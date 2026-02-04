@@ -1,0 +1,200 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="Unifi TV" tvg-id="bein1" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Bein1 [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/bein1/master.m3u8?u=unifi&p=
+
+#EXTINF:2 group-title="Unifi TV" tvg-id="bein2" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Bein2 [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/bein2/master.m3u8?u=unifi&p=
+
+#EXTINF:3 group-title="Unifi TV" tvg-id="bein3" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Bein3 [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/bein3/master.m3u8?u=unifi&p=
+
+#EXTINF:4 group-title="Unifi TV" tvg-id="asianfoodnetwork" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Asian Food Network [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/asianfoodnetwork/master.m3u8?u=unifi&p=
+
+#EXTINF:5 group-title="Unifi TV" tvg-id="8tv" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",8TV [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/8tv/master.m3u8?u=unifi&p=
+
+#EXTINF:6 group-title="Unifi TV" tvg-id="abcaustralia" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",ABC Australia [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/abcaustralia/master.m3u8?u=unifi&p=
+
+#EXTINF:7 group-title="Unifi TV" tvg-id="aljazeera" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Al Jazeera [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/aljazeera/master.m3u8?u=unifi&p=
+
+#EXTINF:8 group-title="Unifi TV" tvg-id="animax" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Animax [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/animax/master.m3u8?u=unifi&p=
+
+#EXTINF:9 group-title="Unifi TV" tvg-id="axn" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",AXN [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/axn/master.m3u8?u=unifi&p=
+
+#EXTINF:10 group-title="Unifi TV" tvg-id="bbcearth" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",BBC Earth [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/bbcearth/master.m3u8?u=unifi&p=
+
+#EXTINF:11 group-title="Unifi TV" tvg-id="bbclifestyle" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",BBC Lifestyle [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/bbclifestyle/master.m3u8?u=unifi&p=
+
+#EXTINF:12 group-title="Unifi TV" tvg-id="bein4" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Bein4 [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/bein4/master.m3u8?u=unifi&p=
+
+#EXTINF:13 group-title="Unifi TV" tvg-id="bernamatv" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Bernama TV [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/bernamatv/master.m3u8?u=unifi&p=
+
+#EXTINF:14 group-title="Unifi TV" tvg-id="cna" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",CNA [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/cna/master.m3u8?u=unifi&p=
+
+#EXTINF:15 group-title="Unifi TV" tvg-id="cartoonnetwork" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Cartoon Network [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/cartoonnetwork/master.m3u8?u=unifi&p=
+
+#EXTINF:16 group-title="Unifi TV" tvg-id="cbeebies" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Cbeebies [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/cbeebies/master.m3u8?u=unifi&p=
+
+#EXTINF:17 group-title="Unifi TV" tvg-id="celestialclassicmovies" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Celestial Classic Movies [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/celestialclassicmovies/master.m3u8?u=unifi&p=
+
+#EXTINF:18 group-title="Unifi TV" tvg-id="cctv4" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",CCTV4 [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/cctv4/master.m3u8?u=unifi&p=
+
+#EXTINF:19 group-title="Unifi TV" tvg-id="celestialmovies" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Celestial Movies [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/celestialmovies/master.m3u8?u=unifi&p=
+
+#EXTINF:20 group-title="Unifi TV" tvg-id="cgtn" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",CGTN [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/cgtn/master.m3u8?u=unifi&p=
+
+#EXTINF:21 group-title="Unifi TV" tvg-id="cinemax" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Cinemax [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/cinemax/master.m3u8?u=unifi&p=
+
+#EXTINF:22 group-title="Unifi TV" tvg-id="degup" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",DEGUP [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/degup/master.m3u8?u=unifi&p=
+
+#EXTINF:23 group-title="Unifi TV" tvg-id="didiktvkpm" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",DidikTV KPM [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/didiktvkpm/master.m3u8?u=unifi&p=
+
+#EXTINF:24 group-title="Unifi TV" tvg-id="dreamworks" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",DreamWorks [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/dreamworks/master.m3u8?u=unifi&p=
+
+#EXTINF:25 group-title="Unifi TV" tvg-id="duniasinema" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Dunia Sinema [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/duniasinema/master.m3u8?u=unifi&p=
+
+#EXTINF:26 group-title="Unifi TV" tvg-id="dw" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",DW [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/dw/master.m3u8?u=unifi&p=
+
+#EXTINF:27 group-title="Unifi TV" tvg-id="euronews" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Euro News [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/euronews/master.m3u8?u=unifi&p=
+
+#EXTINF:28 group-title="Unifi TV" tvg-id="hbo" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",HBO [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/hbo/master.m3u8?u=unifi&p=
+
+#EXTINF:29 group-title="Unifi TV" tvg-id="hbofamily" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",HBO Family [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/hbofamily/master.m3u8?u=unifi&p=
+
+#EXTINF:30 group-title="Unifi TV" tvg-id="hbohits" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",HBO Hits [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/hbohits/master.m3u8?u=unifi&p=
+
+#EXTINF:31 group-title="Unifi TV" tvg-id="hgtv" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",HGTV [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/hgtv/master.m3u8?u=unifi&p=
+
+#EXTINF:32 group-title="Unifi TV" tvg-id="hits" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",HITS [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/hits/master.m3u8?u=unifi&p=
+
+#EXTINF:33 group-title="Unifi TV" tvg-id="hitsmovies" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",HITS Movies [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/hitsmovies/master.m3u8?u=unifi&p=
+
+#EXTINF:34 group-title="Unifi TV" tvg-id="hitsnow" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",HITS NOW [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/hitsnow/master.m3u8?u=unifi&p=
+
+#EXTINF:35 group-title="Unifi TV" tvg-id="inspirasi" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Inspirasi [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/inspirasi/master.m3u8?u=unifi&p=
+
+#EXTINF:36 group-title="Unifi TV" tvg-id="k" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",K+ [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/k/master.m3u8?u=unifi&p=
+
+#EXTINF:37 group-title="Unifi TV" tvg-id="lovenature" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Love Nature [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/lovenature/master.m3u8?u=unifi&p=
+
+#EXTINF:38 group-title="Unifi TV" tvg-id="moonbug" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Moonbug [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/moonbug/master.m3u8?u=unifi&p=
+
+#EXTINF:39 group-title="Unifi TV" tvg-id="nhkworldpremium" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",NHK World Premium [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/nhkworldpremium/master.m3u8?u=unifi&p=
+
+#EXTINF:40 group-title="Unifi TV" tvg-id="nickelodeonasia" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Nickelodeon Asia [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/nickelodeonasia/master.m3u8?u=unifi&p=
+
+#EXTINF:41 group-title="Unifi TV" tvg-id="nickjrasia" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Nick Jr. Asia [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/nickjrasia/master.m3u8?u=unifi&p=
+
+#EXTINF:42 group-title="Unifi TV" tvg-id="rockaction" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",ROCK Action [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/rockaction/master.m3u8?u=unifi&p=
+
+#EXTINF:43 group-title="Unifi TV" tvg-id="rockentertainment" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",ROCK Entertainment [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/rockentertainment/master.m3u8?u=unifi&p=
+
+#EXTINF:44 group-title="Unifi TV" tvg-id="sonyyay" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Sony Yay! [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/sonyyay/master.m3u8?u=unifi&p=
+
+#EXTINF:45 group-title="Unifi TV" tvg-id="pesona" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Pesona [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/pesona/master.m3u8?u=unifi&p=
+
+#EXTINF:46 group-title="Unifi TV" tvg-id="parlimenmalaysia" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Parlimen Malaysia [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/parlimenmalaysia/master.m3u8?u=unifi&p=
+
+#EXTINF:47 group-title="Unifi TV" tvg-id="phoenixhongkongchannel" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Phoenix Hong Kong Channel [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/phoenixhongkongchannel/master.m3u8?u=unifi&p=
+
+#EXTINF:48 group-title="Unifi TV" tvg-id="salam" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Salam [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/salam/master.m3u8?u=unifi&p=
+
+#EXTINF:49 group-title="Unifi TV" tvg-id="sensasi" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Sensasi [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/sensasi/master.m3u8?u=unifi&p=
+
+#EXTINF:50 group-title="Unifi TV" tvg-id="seti" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",SETI [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/seti/master.m3u8?u=unifi&p=
+
+#EXTINF:51 group-title="Unifi TV" tvg-id="siar" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",SIAR [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/siar/master.m3u8?u=unifi&p=
+
+#EXTINF:52 group-title="Unifi TV" tvg-id="spotv" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",SPOTV [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/spotv/master.m3u8?u=unifi&p=
+
+#EXTINF:53 group-title="Unifi TV" tvg-id="spotv2" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",SPOTV2 [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/spotv2/master.m3u8?u=unifi&p=
+
+#EXTINF:54 group-title="Unifi TV" tvg-id="tv1" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",TV1 [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/tv1/master.m3u8?u=unifi&p=
+
+#EXTINF:55 group-title="Unifi TV" tvg-id="tv2" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",TV2 [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/tv2/master.m3u8?u=unifi&p=
+
+#EXTINF:56 group-title="Unifi TV" tvg-id="tv3" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",TV3 [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/tv3/master.m3u8?u=unifi&p=
+
+#EXTINF:57 group-title="Unifi TV" tvg-id="tv9" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",TV9 [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/tv9/master.m3u8?u=unifi&p=
+
+#EXTINF:58 group-title="Unifi TV" tvg-id="tvalhijrah" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",TV Alhijrah [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/tvalhijrah/master.m3u8?u=unifi&p=
+
+#EXTINF:59 group-title="Unifi TV" tvg-id="tvbjade" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",TVB Jade [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/tvbjade/master.m3u8?u=unifi&p=
+
+#EXTINF:60 group-title="Unifi TV" tvg-id="tvn" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",tvN [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/tvn/master.m3u8?u=unifi&p=
+
+#EXTINF:61 group-title="Unifi TV" tvg-id="tvnmovies" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",tvN Movies [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/tvnmovies/master.m3u8?u=unifi&p=
+
+#EXTINF:62 group-title="Unifi TV" tvg-id="tvs" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",TVS [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/tvs/master.m3u8?u=unifi&p=
+
+#EXTINF:63 group-title="Unifi TV" tvg-id="unifisports1" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Unifi Sports 1 [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/unifisports1/master.m3u8?u=unifi&p=
+
+#EXTINF:64 group-title="Unifi TV" tvg-id="warnertv" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Warner TV [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/warnertv/master.m3u8?u=unifi&p=
+
+#EXTINF:65 group-title="Unifi TV" tvg-id="zeecinema" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Zee Cinema [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/zeecinema/master.m3u8?u=unifi&p=
+
+#EXTINF:66 group-title="Unifi TV" tvg-id="zeetamil" tvg-logo="" provider="Unifi TV" provider-logo="" provider-type="iptv",Zee Tamil [Unifi TV]
+http://192.168.68.119:18484/stream/unifitv/zeetamil/master.m3u8?u=unifi&p=
+

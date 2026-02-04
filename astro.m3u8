@@ -1,0 +1,356 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="Astro" tvg-id="hbo" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",HBO [Astro]
+http://192.168.68.119:18484/stream/astro/hbo/master.m3u8?u=astro&p=
+
+#EXTINF:2 group-title="Astro" tvg-id="cnn" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",CNN [Astro]
+http://192.168.68.119:18484/stream/astro/cnn/master.m3u8?u=astro&p=
+
+#EXTINF:3 group-title="Astro" tvg-id="bbcworldnews" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",BBCWorldNews [Astro]
+http://192.168.68.119:18484/stream/astro/bbcworldnews/master.m3u8?u=astro&p=
+
+#EXTINF:4 group-title="Astro" tvg-id="cgtn" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",CGTN [Astro]
+http://192.168.68.119:18484/stream/astro/cgtn/master.m3u8?u=astro&p=
+
+#EXTINF:5 group-title="Astro" tvg-id="aljazeeraenglish" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Al Jazeera English [Astro]
+http://192.168.68.119:18484/stream/astro/aljazeeraenglish/master.m3u8?u=astro&p=
+
+#EXTINF:6 group-title="Astro" tvg-id="dwenglish" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",DWEnglish [Astro]
+http://192.168.68.119:18484/stream/astro/dwenglish/master.m3u8?u=astro&p=
+
+#EXTINF:7 group-title="Astro" tvg-id="france24" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",France24 [Astro]
+http://192.168.68.119:18484/stream/astro/france24/master.m3u8?u=astro&p=
+
+#EXTINF:8 group-title="Astro" tvg-id="tv1" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TV1 [Astro]
+http://192.168.68.119:18484/stream/astro/tv1/master.m3u8?u=astro&p=
+
+#EXTINF:9 group-title="Astro" tvg-id="tv2" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TV2 [Astro]
+http://192.168.68.119:18484/stream/astro/tv2/master.m3u8?u=astro&p=
+
+#EXTINF:10 group-title="Astro" tvg-id="tv3" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TV3 [Astro]
+http://192.168.68.119:18484/stream/astro/tv3/master.m3u8?u=astro&p=
+
+#EXTINF:11 group-title="Astro" tvg-id="astroria" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Ria [Astro]
+http://192.168.68.119:18484/stream/astro/astroria/master.m3u8?u=astro&p=
+
+#EXTINF:12 group-title="Astro" tvg-id="astroprima" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Prima [Astro]
+http://192.168.68.119:18484/stream/astro/astroprima/master.m3u8?u=astro&p=
+
+#EXTINF:13 group-title="Astro" tvg-id="astrooasis" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Oasis [Astro]
+http://192.168.68.119:18484/stream/astro/astrooasis/master.m3u8?u=astro&p=
+
+#EXTINF:14 group-title="Astro" tvg-id="astrocitra" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Citra [Astro]
+http://192.168.68.119:18484/stream/astro/astrocitra/master.m3u8?u=astro&p=
+
+#EXTINF:15 group-title="Astro" tvg-id="astrorania" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Rania [Astro]
+http://192.168.68.119:18484/stream/astro/astrorania/master.m3u8?u=astro&p=
+
+#EXTINF:16 group-title="Astro" tvg-id="astroaura" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Aura [Astro]
+http://192.168.68.119:18484/stream/astro/astroaura/master.m3u8?u=astro&p=
+
+#EXTINF:17 group-title="Astro" tvg-id="alhijrah" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Al-Hijrah [Astro]
+http://192.168.68.119:18484/stream/astro/alhijrah/master.m3u8?u=astro&p=
+
+#EXTINF:18 group-title="Astro" tvg-id="colorshindi" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Colors Hindi [Astro]
+http://192.168.68.119:18484/stream/astro/colorshindi/master.m3u8?u=astro&p=
+
+#EXTINF:19 group-title="Astro" tvg-id="tvsarawak" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TV Sarawak [Astro]
+http://192.168.68.119:18484/stream/astro/tvsarawak/master.m3u8?u=astro&p=
+
+#EXTINF:20 group-title="Astro" tvg-id="tvokey" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TV Okey [Astro]
+http://192.168.68.119:18484/stream/astro/tvokey/master.m3u8?u=astro&p=
+
+#EXTINF:21 group-title="Astro" tvg-id="ntv7" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",NTV7 [Astro]
+http://192.168.68.119:18484/stream/astro/ntv7/master.m3u8?u=astro&p=
+
+#EXTINF:22 group-title="Astro" tvg-id="8tv" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",8TV [Astro]
+http://192.168.68.119:18484/stream/astro/8tv/master.m3u8?u=astro&p=
+
+#EXTINF:23 group-title="Astro" tvg-id="tv9" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TV9 [Astro]
+http://192.168.68.119:18484/stream/astro/tv9/master.m3u8?u=astro&p=
+
+#EXTINF:24 group-title="Astro" tvg-id="astrovaanavil" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Vaanavil [Astro]
+http://192.168.68.119:18484/stream/astro/astrovaanavil/master.m3u8?u=astro&p=
+
+#EXTINF:25 group-title="Astro" tvg-id="astrovinmeen" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Vinmeen [Astro]
+http://192.168.68.119:18484/stream/astro/astrovinmeen/master.m3u8?u=astro&p=
+
+#EXTINF:26 group-title="Astro" tvg-id="astrovellithirai" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Vellithirai [Astro]
+http://192.168.68.119:18484/stream/astro/astrovellithirai/master.m3u8?u=astro&p=
+
+#EXTINF:27 group-title="Astro" tvg-id="suntv" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",SUN TV [Astro]
+http://192.168.68.119:18484/stream/astro/suntv/master.m3u8?u=astro&p=
+
+#EXTINF:28 group-title="Astro" tvg-id="sunmusic" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Sun Music [Astro]
+http://192.168.68.119:18484/stream/astro/sunmusic/master.m3u8?u=astro&p=
+
+#EXTINF:29 group-title="Astro" tvg-id="sunnews" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Sun News [Astro]
+http://192.168.68.119:18484/stream/astro/sunnews/master.m3u8?u=astro&p=
+
+#EXTINF:30 group-title="Astro" tvg-id="sunlife" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Sun Life [Astro]
+http://192.168.68.119:18484/stream/astro/sunlife/master.m3u8?u=astro&p=
+
+#EXTINF:31 group-title="Astro" tvg-id="adithya" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Adithya [Astro]
+http://192.168.68.119:18484/stream/astro/adithya/master.m3u8?u=astro&p=
+
+#EXTINF:32 group-title="Astro" tvg-id="ktv" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",KTV [Astro]
+http://192.168.68.119:18484/stream/astro/ktv/master.m3u8?u=astro&p=
+
+#EXTINF:33 group-title="Astro" tvg-id="starvijay" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Star Vijay [Astro]
+http://192.168.68.119:18484/stream/astro/starvijay/master.m3u8?u=astro&p=
+
+#EXTINF:34 group-title="Astro" tvg-id="zeetamil" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Zee Tamil [Astro]
+http://192.168.68.119:18484/stream/astro/zeetamil/master.m3u8?u=astro&p=
+
+#EXTINF:35 group-title="Astro" tvg-id="colorstamil" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Colors Tamil [Astro]
+http://192.168.68.119:18484/stream/astro/colorstamil/master.m3u8?u=astro&p=
+
+#EXTINF:36 group-title="Astro" tvg-id="colorstamil1" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Thangathirai [Astro]
+http://192.168.68.119:18484/stream/astro/colorstamil1/master.m3u8?u=astro&p=
+
+#EXTINF:37 group-title="Astro" tvg-id="zeecinema" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Zee Cinema [Astro]
+http://192.168.68.119:18484/stream/astro/zeecinema/master.m3u8?u=astro&p=
+
+#EXTINF:38 group-title="Astro" tvg-id="iqiyi" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",iQIYI [Astro]
+http://192.168.68.119:18484/stream/astro/iqiyi/master.m3u8?u=astro&p=
+
+#EXTINF:39 group-title="Astro" tvg-id="tvbclassic" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TVB Classic [Astro]
+http://192.168.68.119:18484/stream/astro/tvbclassic/master.m3u8?u=astro&p=
+
+#EXTINF:40 group-title="Astro" tvg-id="astroaec" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro AEC [Astro]
+http://192.168.68.119:18484/stream/astro/astroaec/master.m3u8?u=astro&p=
+
+#EXTINF:41 group-title="Astro" tvg-id="astroqj" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro QJ [Astro]
+http://192.168.68.119:18484/stream/astro/astroqj/master.m3u8?u=astro&p=
+
+#EXTINF:42 group-title="Astro" tvg-id="celestialmovies" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Celestial Movies [Astro]
+http://192.168.68.119:18484/stream/astro/celestialmovies/master.m3u8?u=astro&p=
+
+#EXTINF:43 group-title="Astro" tvg-id="tvbjade" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TVB Jade [Astro]
+http://192.168.68.119:18484/stream/astro/tvbjade/master.m3u8?u=astro&p=
+
+#EXTINF:44 group-title="Astro" tvg-id="astroaod" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro AOD [Astro]
+http://192.168.68.119:18484/stream/astro/astroaod/master.m3u8?u=astro&p=
+
+#EXTINF:45 group-title="Astro" tvg-id="ctiasia" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",CTI Asia [Astro]
+http://192.168.68.119:18484/stream/astro/ctiasia/master.m3u8?u=astro&p=
+
+#EXTINF:46 group-title="Astro" tvg-id="tvbentertainmentnews" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TVB Entertainment News [Astro]
+http://192.168.68.119:18484/stream/astro/tvbentertainmentnews/master.m3u8?u=astro&p=
+
+#EXTINF:47 group-title="Astro" tvg-id="tvbxinghe" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TVB Xing He [Astro]
+http://192.168.68.119:18484/stream/astro/tvbxinghe/master.m3u8?u=astro&p=
+
+#EXTINF:48 group-title="Astro" tvg-id="tvbsasia" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TVBS Asia [Astro]
+http://192.168.68.119:18484/stream/astro/tvbsasia/master.m3u8?u=astro&p=
+
+#EXTINF:49 group-title="Astro" tvg-id="celestialclassicmovies" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Celestial Classic Movies [Astro]
+http://192.168.68.119:18484/stream/astro/celestialclassicmovies/master.m3u8?u=astro&p=
+
+#EXTINF:50 group-title="Astro" tvg-id="phoenixchinesechannel" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Phoenix Chinese Channel [Astro]
+http://192.168.68.119:18484/stream/astro/phoenixchinesechannel/master.m3u8?u=astro&p=
+
+#EXTINF:51 group-title="Astro" tvg-id="phoenixinfonews" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Phoenix Info News [Astro]
+http://192.168.68.119:18484/stream/astro/phoenixinfonews/master.m3u8?u=astro&p=
+
+#EXTINF:52 group-title="Astro" tvg-id="astrohuaheedai" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Hua Hee Dai [Astro]
+http://192.168.68.119:18484/stream/astro/astrohuaheedai/master.m3u8?u=astro&p=
+
+#EXTINF:53 group-title="Astro" tvg-id="cctv4" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",CCTV4 [Astro]
+http://192.168.68.119:18484/stream/astro/cctv4/master.m3u8?u=astro&p=
+
+#EXTINF:54 group-title="Astro" tvg-id="kbsworld" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",KBS World [Astro]
+http://192.168.68.119:18484/stream/astro/kbsworld/master.m3u8?u=astro&p=
+
+#EXTINF:55 group-title="Astro" tvg-id="one" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",ONE [Astro]
+http://192.168.68.119:18484/stream/astro/one/master.m3u8?u=astro&p=
+
+#EXTINF:56 group-title="Astro" tvg-id="tvn" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",tvN [Astro]
+http://192.168.68.119:18484/stream/astro/tvn/master.m3u8?u=astro&p=
+
+#EXTINF:57 group-title="Astro" tvg-id="kplus" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",K-Plus [Astro]
+http://192.168.68.119:18484/stream/astro/kplus/master.m3u8?u=astro&p=
+
+#EXTINF:58 group-title="Astro" tvg-id="nhkworldpremium" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",NHK World Premium [Astro]
+http://192.168.68.119:18484/stream/astro/nhkworldpremium/master.m3u8?u=astro&p=
+
+#EXTINF:59 group-title="Astro" tvg-id="hitsmovies" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",HITS MOVIES [Astro]
+http://192.168.68.119:18484/stream/astro/hitsmovies/master.m3u8?u=astro&p=
+
+#EXTINF:60 group-title="Astro" tvg-id="astroboo" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Boo [Astro]
+http://192.168.68.119:18484/stream/astro/astroboo/master.m3u8?u=astro&p=
+
+#EXTINF:61 group-title="Astro" tvg-id="cinemax" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",CINEMAX [Astro]
+http://192.168.68.119:18484/stream/astro/cinemax/master.m3u8?u=astro&p=
+
+#EXTINF:62 group-title="Astro" tvg-id="astroshowcase" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Showcase [Astro]
+http://192.168.68.119:18484/stream/astro/astroshowcase/master.m3u8?u=astro&p=
+
+#EXTINF:63 group-title="Astro" tvg-id="hbofamily" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",HBO Family [Astro]
+http://192.168.68.119:18484/stream/astro/hbofamily/master.m3u8?u=astro&p=
+
+#EXTINF:64 group-title="Astro" tvg-id="hbohits" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",HBO Hits [Astro]
+http://192.168.68.119:18484/stream/astro/hbohits/master.m3u8?u=astro&p=
+
+#EXTINF:65 group-title="Astro" tvg-id="tvnmovies" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",tvN Movies [Astro]
+http://192.168.68.119:18484/stream/astro/tvnmovies/master.m3u8?u=astro&p=
+
+#EXTINF:66 group-title="Astro" tvg-id="astroawani" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Awani [Astro]
+http://192.168.68.119:18484/stream/astro/astroawani/master.m3u8?u=astro&p=
+
+#EXTINF:67 group-title="Astro" tvg-id="bernama" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",BERNAMA [Astro]
+http://192.168.68.119:18484/stream/astro/bernama/master.m3u8?u=astro&p=
+
+#EXTINF:68 group-title="Astro" tvg-id="skynews" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Sky News [Astro]
+http://192.168.68.119:18484/stream/astro/skynews/master.m3u8?u=astro&p=
+
+#EXTINF:69 group-title="Astro" tvg-id="cna" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",CNA [Astro]
+http://192.168.68.119:18484/stream/astro/cna/master.m3u8?u=astro&p=
+
+#EXTINF:70 group-title="Astro" tvg-id="cnbcasia" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",CNBC Asia [Astro]
+http://192.168.68.119:18484/stream/astro/cnbcasia/master.m3u8?u=astro&p=
+
+#EXTINF:71 group-title="Astro" tvg-id="bloombergtv" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Bloomberg TV [Astro]
+http://192.168.68.119:18484/stream/astro/bloombergtv/master.m3u8?u=astro&p=
+
+#EXTINF:72 group-title="Astro" tvg-id="abcaustralia" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",ABC Australia [Astro]
+http://192.168.68.119:18484/stream/astro/abcaustralia/master.m3u8?u=astro&p=
+
+#EXTINF:73 group-title="Astro" tvg-id="lovenature4k" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Love Nature 4K [Astro]
+http://192.168.68.119:18484/stream/astro/lovenature4k/master.m3u8?u=astro&p=
+
+#EXTINF:74 group-title="Astro" tvg-id="lovenature" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Love Nature [Astro]
+http://192.168.68.119:18484/stream/astro/lovenature/master.m3u8?u=astro&p=
+
+#EXTINF:75 group-title="Astro" tvg-id="globaltrekker" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Global Trekker [Astro]
+http://192.168.68.119:18484/stream/astro/globaltrekker/master.m3u8?u=astro&p=
+
+#EXTINF:76 group-title="Astro" tvg-id="discoverychannel" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Discovery Channel [Astro]
+http://192.168.68.119:18484/stream/astro/discoverychannel/master.m3u8?u=astro&p=
+
+#EXTINF:77 group-title="Astro" tvg-id="discoveryasia" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Discovery Asia [Astro]
+http://192.168.68.119:18484/stream/astro/discoveryasia/master.m3u8?u=astro&p=
+
+#EXTINF:78 group-title="Astro" tvg-id="bbcearth" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",BBC Earth [Astro]
+http://192.168.68.119:18484/stream/astro/bbcearth/master.m3u8?u=astro&p=
+
+#EXTINF:79 group-title="Astro" tvg-id="history" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",History [Astro]
+http://192.168.68.119:18484/stream/astro/history/master.m3u8?u=astro&p=
+
+#EXTINF:80 group-title="Astro" tvg-id="astrotutor" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Tutor [Astro]
+http://192.168.68.119:18484/stream/astro/astrotutor/master.m3u8?u=astro&p=
+
+#EXTINF:81 group-title="Astro" tvg-id="astroceria" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Ceria [Astro]
+http://192.168.68.119:18484/stream/astro/astroceria/master.m3u8?u=astro&p=
+
+#EXTINF:82 group-title="Astro" tvg-id="cartoonnetwork" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Cartoon Network [Astro]
+http://192.168.68.119:18484/stream/astro/cartoonnetwork/master.m3u8?u=astro&p=
+
+#EXTINF:83 group-title="Astro" tvg-id="nickelodeon" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Nickelodeon [Astro]
+http://192.168.68.119:18484/stream/astro/nickelodeon/master.m3u8?u=astro&p=
+
+#EXTINF:84 group-title="Astro" tvg-id="nickjr" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Nick Jr. [Astro]
+http://192.168.68.119:18484/stream/astro/nickjr/master.m3u8?u=astro&p=
+
+#EXTINF:85 group-title="Astro" tvg-id="moonbug" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Moonbug [Astro]
+http://192.168.68.119:18484/stream/astro/moonbug/master.m3u8?u=astro&p=
+
+#EXTINF:86 group-title="Astro" tvg-id="blippifriends" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Blippi & Friends [Astro]
+http://192.168.68.119:18484/stream/astro/blippifriends/master.m3u8?u=astro&p=
+
+#EXTINF:87 group-title="Astro" tvg-id="cbeebies" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",CBeebies [Astro]
+http://192.168.68.119:18484/stream/astro/cbeebies/master.m3u8?u=astro&p=
+
+#EXTINF:88 group-title="Astro" tvg-id="axn" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",AXN [Astro]
+http://192.168.68.119:18484/stream/astro/axn/master.m3u8?u=astro&p=
+
+#EXTINF:89 group-title="Astro" tvg-id="hitsnow" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",HITS NOW [Astro]
+http://192.168.68.119:18484/stream/astro/hitsnow/master.m3u8?u=astro&p=
+
+#EXTINF:90 group-title="Astro" tvg-id="lifetime" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Lifetime [Astro]
+http://192.168.68.119:18484/stream/astro/lifetime/master.m3u8?u=astro&p=
+
+#EXTINF:91 group-title="Astro" tvg-id="hits" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",HITS [Astro]
+http://192.168.68.119:18484/stream/astro/hits/master.m3u8?u=astro&p=
+
+#EXTINF:92 group-title="Astro" tvg-id="tlc" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",TLC [Astro]
+http://192.168.68.119:18484/stream/astro/tlc/master.m3u8?u=astro&p=
+
+#EXTINF:93 group-title="Astro" tvg-id="asianfoodnetwork" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Asian Food Network [Astro]
+http://192.168.68.119:18484/stream/astro/asianfoodnetwork/master.m3u8?u=astro&p=
+
+#EXTINF:94 group-title="Astro" tvg-id="crimeinvestigation" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Crime & Investigation [Astro]
+http://192.168.68.119:18484/stream/astro/crimeinvestigation/master.m3u8?u=astro&p=
+
+#EXTINF:95 group-title="Astro" tvg-id="hgtv" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",HGTV [Astro]
+http://192.168.68.119:18484/stream/astro/hgtv/master.m3u8?u=astro&p=
+
+#EXTINF:96 group-title="Astro" tvg-id="bbclifestyle" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",BBC Lifestyle [Astro]
+http://192.168.68.119:18484/stream/astro/bbclifestyle/master.m3u8?u=astro&p=
+
+#EXTINF:97 group-title="Astro" tvg-id="mtvlive" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",MTV Live [Astro]
+http://192.168.68.119:18484/stream/astro/mtvlive/master.m3u8?u=astro&p=
+
+#EXTINF:98 group-title="Astro" tvg-id="astroarena" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Arena [Astro]
+http://192.168.68.119:18484/stream/astro/astroarena/master.m3u8?u=astro&p=
+
+#EXTINF:99 group-title="Astro" tvg-id="astroarena2" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Arena 2 [Astro]
+http://192.168.68.119:18484/stream/astro/astroarena2/master.m3u8?u=astro&p=
+
+#EXTINF:100 group-title="Astro" tvg-id="arenabola" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Arena Bola [Astro]
+http://192.168.68.119:18484/stream/astro/arenabola/master.m3u8?u=astro&p=
+
+#EXTINF:101 group-title="Astro" tvg-id="arenabola2" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Arena Bola 2 [Astro]
+http://192.168.68.119:18484/stream/astro/arenabola2/master.m3u8?u=astro&p=
+
+#EXTINF:102 group-title="Astro" tvg-id="astrosportsuhd" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Sports UHD [Astro]
+http://192.168.68.119:18484/stream/astro/astrosportsuhd/master.m3u8?u=astro&p=
+
+#EXTINF:103 group-title="Astro" tvg-id="astrograndstand" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Grandstand [Astro]
+http://192.168.68.119:18484/stream/astro/astrograndstand/master.m3u8?u=astro&p=
+
+#EXTINF:104 group-title="Astro" tvg-id="astropremierleague" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Premier League [Astro]
+http://192.168.68.119:18484/stream/astro/astropremierleague/master.m3u8?u=astro&p=
+
+#EXTINF:105 group-title="Astro" tvg-id="astropremierleague2" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Premier League 2 [Astro]
+http://192.168.68.119:18484/stream/astro/astropremierleague2/master.m3u8?u=astro&p=
+
+#EXTINF:106 group-title="Astro" tvg-id="astrofootball" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Football [Astro]
+http://192.168.68.119:18484/stream/astro/astrofootball/master.m3u8?u=astro&p=
+
+#EXTINF:107 group-title="Astro" tvg-id="astrobadminton" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Badminton [Astro]
+http://192.168.68.119:18484/stream/astro/astrobadminton/master.m3u8?u=astro&p=
+
+#EXTINF:108 group-title="Astro" tvg-id="astrosportsplus" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Sports Plus [Astro]
+http://192.168.68.119:18484/stream/astro/astrosportsplus/master.m3u8?u=astro&p=
+
+#EXTINF:109 group-title="Astro" tvg-id="astrocricket" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Astro Cricket [Astro]
+http://192.168.68.119:18484/stream/astro/astrocricket/master.m3u8?u=astro&p=
+
+#EXTINF:110 group-title="Astro" tvg-id="beinsports1" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",beIN SPORTS 1 [Astro]
+http://192.168.68.119:18484/stream/astro/beinsports1/master.m3u8?u=astro&p=
+
+#EXTINF:111 group-title="Astro" tvg-id="beinsports2" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",beIN SPORTS 2 [Astro]
+http://192.168.68.119:18484/stream/astro/beinsports2/master.m3u8?u=astro&p=
+
+#EXTINF:112 group-title="Astro" tvg-id="beinsports3" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",beIN SPORTS 3 [Astro]
+http://192.168.68.119:18484/stream/astro/beinsports3/master.m3u8?u=astro&p=
+
+#EXTINF:113 group-title="Astro" tvg-id="spotv" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",SPOTV [Astro]
+http://192.168.68.119:18484/stream/astro/spotv/master.m3u8?u=astro&p=
+
+#EXTINF:114 group-title="Astro" tvg-id="spotv2" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",SPOTV2 [Astro]
+http://192.168.68.119:18484/stream/astro/spotv2/master.m3u8?u=astro&p=
+
+#EXTINF:115 group-title="Astro" tvg-id="wsport" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",W-Sport [Astro]
+http://192.168.68.119:18484/stream/astro/wsport/master.m3u8?u=astro&p=
+
+#EXTINF:116 group-title="Astro" tvg-id="golfchannel" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Golf Channel [Astro]
+http://192.168.68.119:18484/stream/astro/golfchannel/master.m3u8?u=astro&p=
+
+#EXTINF:117 group-title="Astro" tvg-id="premiersportsrugby" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",Premier Sports Rugby [Astro]
+http://192.168.68.119:18484/stream/astro/premiersportsrugby/master.m3u8?u=astro&p=
+
+#EXTINF:118 group-title="Astro" tvg-id="beinsport4" tvg-logo="" provider="Astro" provider-logo="" provider-type="iptv",beIN SPORT 4 [Astro]
+http://192.168.68.119:18484/stream/astro/beinsport4/master.m3u8?u=astro&p=
+
