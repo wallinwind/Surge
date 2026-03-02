@@ -1,0 +1,377 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="singtel" tvg-id="miosports" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",mio Sports [singtel]
+http://192.168.68.119:18484/stream/singtel/miosports/master.m3u8?u=singtel&p=
+
+#EXTINF:2 group-title="singtel" tvg-id="miosports2" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",mio Sports 2 [singtel]
+http://192.168.68.119:18484/stream/singtel/miosports2/master.m3u8?u=singtel&p=
+
+#EXTINF:3 group-title="singtel" tvg-id="miosports3" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",mio Sports 3 [singtel]
+http://192.168.68.119:18484/stream/singtel/miosports3/master.m3u8?u=singtel&p=
+
+#EXTINF:4 group-title="singtel" tvg-id="spotvhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",SPOTV (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/spotvhd/master.m3u8?u=singtel&p=
+
+#EXTINF:5 group-title="singtel" tvg-id="spotv2hd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",SPOTV 2 (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/spotv2hd/master.m3u8?u=singtel&p=
+
+#EXTINF:6 group-title="singtel" tvg-id="eurosporthd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",EUROSPORT (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/eurosporthd/master.m3u8?u=singtel&p=
+
+#EXTINF:7 group-title="singtel" tvg-id="premiersports" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Premier Sports [singtel]
+http://192.168.68.119:18484/stream/singtel/premiersports/master.m3u8?u=singtel&p=
+
+#EXTINF:8 group-title="singtel" tvg-id="fightsportshd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Fight Sports (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/fightsportshd/master.m3u8?u=singtel&p=
+
+#EXTINF:9 group-title="singtel" tvg-id="cricbuzzhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Cricbuzz (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/cricbuzzhd/master.m3u8?u=singtel&p=
+
+#EXTINF:10 group-title="singtel" tvg-id="cricbuzz2hd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Cricbuzz 2 (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/cricbuzz2hd/master.m3u8?u=singtel&p=
+
+#EXTINF:11 group-title="singtel" tvg-id="beinsportshd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",beIN SPORTS (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/beinsportshd/master.m3u8?u=singtel&p=
+
+#EXTINF:12 group-title="singtel" tvg-id="beinsports2hd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",beIN SPORTS 2 (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/beinsports2hd/master.m3u8?u=singtel&p=
+
+#EXTINF:13 group-title="singtel" tvg-id="beinsports3hd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",beIN SPORTS 3 (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/beinsports3hd/master.m3u8?u=singtel&p=
+
+#EXTINF:14 group-title="singtel" tvg-id="skynewshd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Sky News HD [singtel]
+http://192.168.68.119:18484/stream/singtel/skynewshd/master.m3u8?u=singtel&p=
+
+#EXTINF:15 group-title="singtel" tvg-id="cgtnhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",CGTN (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/cgtnhd/master.m3u8?u=singtel&p=
+
+#EXTINF:16 group-title="singtel" tvg-id="nhkworldjapan" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",NHK World - Japan [singtel]
+http://192.168.68.119:18484/stream/singtel/nhkworldjapan/master.m3u8?u=singtel&p=
+
+#EXTINF:17 group-title="singtel" tvg-id="france24english" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",France 24 (English) [singtel]
+http://192.168.68.119:18484/stream/singtel/france24english/master.m3u8?u=singtel&p=
+
+#EXTINF:18 group-title="singtel" tvg-id="dwenglish" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",DW (English) [singtel]
+http://192.168.68.119:18484/stream/singtel/dwenglish/master.m3u8?u=singtel&p=
+
+#EXTINF:19 group-title="singtel" tvg-id="foxnewschannelhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",FOX News Channel HD [singtel]
+http://192.168.68.119:18484/stream/singtel/foxnewschannelhd/master.m3u8?u=singtel&p=
+
+#EXTINF:20 group-title="singtel" tvg-id="bbcnewshd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",BBC News (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/bbcnewshd/master.m3u8?u=singtel&p=
+
+#EXTINF:21 group-title="singtel" tvg-id="cnninternational" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",CNN International [singtel]
+http://192.168.68.119:18484/stream/singtel/cnninternational/master.m3u8?u=singtel&p=
+
+#EXTINF:22 group-title="singtel" tvg-id="bloombergtvhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Bloomberg TV (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/bloombergtvhd/master.m3u8?u=singtel&p=
+
+#EXTINF:23 group-title="singtel" tvg-id="bloombergoriginals" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Bloomberg Originals [singtel]
+http://192.168.68.119:18484/stream/singtel/bloombergoriginals/master.m3u8?u=singtel&p=
+
+#EXTINF:24 group-title="singtel" tvg-id="cnbcasiahd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",CNBC Asia (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/cnbcasiahd/master.m3u8?u=singtel&p=
+
+#EXTINF:25 group-title="singtel" tvg-id="discoverychhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Discovery Ch (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/discoverychhd/master.m3u8?u=singtel&p=
+
+#EXTINF:26 group-title="singtel" tvg-id="bbcearthhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",BBC Earth (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/bbcearthhd/master.m3u8?u=singtel&p=
+
+#EXTINF:27 group-title="singtel" tvg-id="discoveryasiahd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Discovery Asia (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/discoveryasiahd/master.m3u8?u=singtel&p=
+
+#EXTINF:28 group-title="singtel" tvg-id="cihd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",C+I (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/cihd/master.m3u8?u=singtel&p=
+
+#EXTINF:29 group-title="singtel" tvg-id="animalplanethd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Animal Planet (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/animalplanethd/master.m3u8?u=singtel&p=
+
+#EXTINF:30 group-title="singtel" tvg-id="historyhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",HISTORY (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/historyhd/master.m3u8?u=singtel&p=
+
+#EXTINF:31 group-title="singtel" tvg-id="cgtndocumentary" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",CGTN-Documentary [singtel]
+http://192.168.68.119:18484/stream/singtel/cgtndocumentary/master.m3u8?u=singtel&p=
+
+#EXTINF:32 group-title="singtel" tvg-id="globaltrekkerhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Global Trekker (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/globaltrekkerhd/master.m3u8?u=singtel&p=
+
+#EXTINF:33 group-title="singtel" tvg-id="lovenaturehd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Love Nature (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/lovenaturehd/master.m3u8?u=singtel&p=
+
+#EXTINF:34 group-title="singtel" tvg-id="cartoonnetworkhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Cartoon Network (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/cartoonnetworkhd/master.m3u8?u=singtel&p=
+
+#EXTINF:35 group-title="singtel" tvg-id="cartoonitohd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Cartoonito (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/cartoonitohd/master.m3u8?u=singtel&p=
+
+#EXTINF:36 group-title="singtel" tvg-id="cbeebieshd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",CBeebies (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/cbeebieshd/master.m3u8?u=singtel&p=
+
+#EXTINF:37 group-title="singtel" tvg-id="nickjrhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Nick Jr (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/nickjrhd/master.m3u8?u=singtel&p=
+
+#EXTINF:38 group-title="singtel" tvg-id="nickelodeonasiahd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Nickelodeon Asia HD [singtel]
+http://192.168.68.119:18484/stream/singtel/nickelodeonasiahd/master.m3u8?u=singtel&p=
+
+#EXTINF:39 group-title="singtel" tvg-id="hgtvhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",HGTV (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/hgtvhd/master.m3u8?u=singtel&p=
+
+#EXTINF:40 group-title="singtel" tvg-id="abcaustralia" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",ABC Australia [singtel]
+http://192.168.68.119:18484/stream/singtel/abcaustralia/master.m3u8?u=singtel&p=
+
+#EXTINF:41 group-title="singtel" tvg-id="foodnetworkhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Food Network (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/foodnetworkhd/master.m3u8?u=singtel&p=
+
+#EXTINF:42 group-title="singtel" tvg-id="tlchd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",TLC (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/tlchd/master.m3u8?u=singtel&p=
+
+#EXTINF:43 group-title="singtel" tvg-id="bbclifestylehd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",BBC Lifestyle (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/bbclifestylehd/master.m3u8?u=singtel&p=
+
+#EXTINF:44 group-title="singtel" tvg-id="afnhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",AFN (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/afnhd/master.m3u8?u=singtel&p=
+
+#EXTINF:45 group-title="singtel" tvg-id="tracesportstarshd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",TRACE Sport Stars HD [singtel]
+http://192.168.68.119:18484/stream/singtel/tracesportstarshd/master.m3u8?u=singtel&p=
+
+#EXTINF:46 group-title="singtel" tvg-id="arirangtvhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Arirang TV (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/arirangtvhd/master.m3u8?u=singtel&p=
+
+#EXTINF:47 group-title="singtel" tvg-id="hdoutdoorchannel" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",(HD) Outdoor Channel [singtel]
+http://192.168.68.119:18484/stream/singtel/hdoutdoorchannel/master.m3u8?u=singtel&p=
+
+#EXTINF:48 group-title="singtel" tvg-id="hitsmovieshd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",HITS MOVIES (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/hitsmovieshd/master.m3u8?u=singtel&p=
+
+#EXTINF:49 group-title="singtel" tvg-id="lifetimehd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Lifetime (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/lifetimehd/master.m3u8?u=singtel&p=
+
+#EXTINF:50 group-title="singtel" tvg-id="hitsnowhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",HITS NOW (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/hitsnowhd/master.m3u8?u=singtel&p=
+
+#EXTINF:51 group-title="singtel" tvg-id="axnhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",AXN (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/axnhd/master.m3u8?u=singtel&p=
+
+#EXTINF:52 group-title="singtel" tvg-id="rockactionhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",ROCK Action (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/rockactionhd/master.m3u8?u=singtel&p=
+
+#EXTINF:53 group-title="singtel" tvg-id="rockenthd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",ROCK ENT (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/rockenthd/master.m3u8?u=singtel&p=
+
+#EXTINF:54 group-title="singtel" tvg-id="hitshd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",HITS (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/hitshd/master.m3u8?u=singtel&p=
+
+#EXTINF:55 group-title="singtel" tvg-id="aniplushd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",ANIPLUS HD [singtel]
+http://192.168.68.119:18484/stream/singtel/aniplushd/master.m3u8?u=singtel&p=
+
+#EXTINF:56 group-title="singtel" tvg-id="animaxhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Animax (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/animaxhd/master.m3u8?u=singtel&p=
+
+#EXTINF:57 group-title="singtel" tvg-id="hbohd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",HBO HD [singtel]
+http://192.168.68.119:18484/stream/singtel/hbohd/master.m3u8?u=singtel&p=
+
+#EXTINF:58 group-title="singtel" tvg-id="hbosignaturehd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",HBO Signature (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/hbosignaturehd/master.m3u8?u=singtel&p=
+
+#EXTINF:59 group-title="singtel" tvg-id="hbofamilyhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",HBO Family (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/hbofamilyhd/master.m3u8?u=singtel&p=
+
+#EXTINF:60 group-title="singtel" tvg-id="hbohitshd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",HBO Hits (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/hbohitshd/master.m3u8?u=singtel&p=
+
+#EXTINF:61 group-title="singtel" tvg-id="cinemaxhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",CINEMAX (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/cinemaxhd/master.m3u8?u=singtel&p=
+
+#EXTINF:62 group-title="singtel" tvg-id="elehd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",e-Le (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/elehd/master.m3u8?u=singtel&p=
+
+#EXTINF:63 group-title="singtel" tvg-id="jialechannelhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Jia Le Channel (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/jialechannelhd/master.m3u8?u=singtel&p=
+
+#EXTINF:64 group-title="singtel" tvg-id="julecool" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Ju Le Cool [singtel]
+http://192.168.68.119:18484/stream/singtel/julecool/master.m3u8?u=singtel&p=
+
+#EXTINF:65 group-title="singtel" tvg-id="tvbsasia" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",TVBS Asia [singtel]
+http://192.168.68.119:18484/stream/singtel/tvbsasia/master.m3u8?u=singtel&p=
+
+#EXTINF:66 group-title="singtel" tvg-id="tvbjadehd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",TVB Jade (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/tvbjadehd/master.m3u8?u=singtel&p=
+
+#EXTINF:67 group-title="singtel" tvg-id="nowjellihd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",now Jelli (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/nowjellihd/master.m3u8?u=singtel&p=
+
+#EXTINF:68 group-title="singtel" tvg-id="onehdmandarin" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",ONE HD (Mandarin) [singtel]
+http://192.168.68.119:18484/stream/singtel/onehdmandarin/master.m3u8?u=singtel&p=
+
+#EXTINF:69 group-title="singtel" tvg-id="tvbsnews" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",TVBS News [singtel]
+http://192.168.68.119:18484/stream/singtel/tvbsnews/master.m3u8?u=singtel&p=
+
+#EXTINF:70 group-title="singtel" tvg-id="tvbxinghehd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",TVB Xing He (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/tvbxinghehd/master.m3u8?u=singtel&p=
+
+#EXTINF:71 group-title="singtel" tvg-id="tvnhdmandarin" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",tvN HD (Mandarin) [singtel]
+http://192.168.68.119:18484/stream/singtel/tvnhdmandarin/master.m3u8?u=singtel&p=
+
+#EXTINF:72 group-title="singtel" tvg-id="ettvasiahd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",ETTV Asia (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/ettvasiahd/master.m3u8?u=singtel&p=
+
+#EXTINF:73 group-title="singtel" tvg-id="kbsworldhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",KBS World (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/kbsworldhd/master.m3u8?u=singtel&p=
+
+#EXTINF:74 group-title="singtel" tvg-id="cctventertainment" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",CCTV Entertainment [singtel]
+http://192.168.68.119:18484/stream/singtel/cctventertainment/master.m3u8?u=singtel&p=
+
+#EXTINF:75 group-title="singtel" tvg-id="dragontvintl" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Dragon TV Intl [singtel]
+http://192.168.68.119:18484/stream/singtel/dragontvintl/master.m3u8?u=singtel&p=
+
+#EXTINF:76 group-title="singtel" tvg-id="hunaninternational" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Hunan International [singtel]
+http://192.168.68.119:18484/stream/singtel/hunaninternational/master.m3u8?u=singtel&p=
+
+#EXTINF:77 group-title="singtel" tvg-id="brtvinternational" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",BRTV International [singtel]
+http://192.168.68.119:18484/stream/singtel/brtvinternational/master.m3u8?u=singtel&p=
+
+#EXTINF:78 group-title="singtel" tvg-id="chinamoviechannel" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",China Movie Channel [singtel]
+http://192.168.68.119:18484/stream/singtel/chinamoviechannel/master.m3u8?u=singtel&p=
+
+#EXTINF:79 group-title="singtel" tvg-id="phoenixinfonews" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Phoenix InfoNews [singtel]
+http://192.168.68.119:18484/stream/singtel/phoenixinfonews/master.m3u8?u=singtel&p=
+
+#EXTINF:80 group-title="singtel" tvg-id="cctv4hd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",CCTV-4 (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/cctv4hd/master.m3u8?u=singtel&p=
+
+#EXTINF:81 group-title="singtel" tvg-id="ctiasiahd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",CTI Asia (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/ctiasiahd/master.m3u8?u=singtel&p=
+
+#EXTINF:82 group-title="singtel" tvg-id="ettvasianewshd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",ETTV Asia News (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/ettvasianewshd/master.m3u8?u=singtel&p=
+
+#EXTINF:83 group-title="singtel" tvg-id="cm" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",CM+ [singtel]
+http://192.168.68.119:18484/stream/singtel/cm/master.m3u8?u=singtel&p=
+
+#EXTINF:84 group-title="singtel" tvg-id="ccm" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",CCM [singtel]
+http://192.168.68.119:18484/stream/singtel/ccm/master.m3u8?u=singtel&p=
+
+#EXTINF:85 group-title="singtel" tvg-id="celestialmovieshd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Celestial Movies(HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/celestialmovieshd/master.m3u8?u=singtel&p=
+
+#EXTINF:86 group-title="singtel" tvg-id="astroprimahd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Astro Prima HD [singtel]
+http://192.168.68.119:18484/stream/singtel/astroprimahd/master.m3u8?u=singtel&p=
+
+#EXTINF:87 group-title="singtel" tvg-id="onehdmalay" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",ONE HD (Malay) [singtel]
+http://192.168.68.119:18484/stream/singtel/onehdmalay/master.m3u8?u=singtel&p=
+
+#EXTINF:88 group-title="singtel" tvg-id="pesonahd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Pesona HD [singtel]
+http://192.168.68.119:18484/stream/singtel/pesonahd/master.m3u8?u=singtel&p=
+
+#EXTINF:89 group-title="singtel" tvg-id="astroriahd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Astro Ria HD [singtel]
+http://192.168.68.119:18484/stream/singtel/astroriahd/master.m3u8?u=singtel&p=
+
+#EXTINF:90 group-title="singtel" tvg-id="citradramahd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Citra Drama (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/citradramahd/master.m3u8?u=singtel&p=
+
+#EXTINF:91 group-title="singtel" tvg-id="dramachannel" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Drama Channel [singtel]
+http://192.168.68.119:18484/stream/singtel/dramachannel/master.m3u8?u=singtel&p=
+
+#EXTINF:92 group-title="singtel" tvg-id="tvnhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",tvN HD [singtel]
+http://192.168.68.119:18484/stream/singtel/tvnhd/master.m3u8?u=singtel&p=
+
+#EXTINF:93 group-title="singtel" tvg-id="suntvhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Sun TV HD [singtel]
+http://192.168.68.119:18484/stream/singtel/suntvhd/master.m3u8?u=singtel&p=
+
+#EXTINF:94 group-title="singtel" tvg-id="colorstamilhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Colors Tamil HD [singtel]
+http://192.168.68.119:18484/stream/singtel/colorstamilhd/master.m3u8?u=singtel&p=
+
+#EXTINF:95 group-title="singtel" tvg-id="zeethirai" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Zee Thirai [singtel]
+http://192.168.68.119:18484/stream/singtel/zeethirai/master.m3u8?u=singtel&p=
+
+#EXTINF:96 group-title="singtel" tvg-id="ktvhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",KTV HD [singtel]
+http://192.168.68.119:18484/stream/singtel/ktvhd/master.m3u8?u=singtel&p=
+
+#EXTINF:97 group-title="singtel" tvg-id="sunmusichd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Sun Music HD [singtel]
+http://192.168.68.119:18484/stream/singtel/sunmusichd/master.m3u8?u=singtel&p=
+
+#EXTINF:98 group-title="singtel" tvg-id="adithyatv" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Adithya TV [singtel]
+http://192.168.68.119:18484/stream/singtel/adithyatv/master.m3u8?u=singtel&p=
+
+#EXTINF:99 group-title="singtel" tvg-id="sonyyay" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Sony YAY [singtel]
+http://192.168.68.119:18484/stream/singtel/sonyyay/master.m3u8?u=singtel&p=
+
+#EXTINF:100 group-title="singtel" tvg-id="zeetamilhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Zee Tamil HD [singtel]
+http://192.168.68.119:18484/stream/singtel/zeetamilhd/master.m3u8?u=singtel&p=
+
+#EXTINF:101 group-title="singtel" tvg-id="vijaytvhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Vijay TV (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/vijaytvhd/master.m3u8?u=singtel&p=
+
+#EXTINF:102 group-title="singtel" tvg-id="asianet" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Asianet [singtel]
+http://192.168.68.119:18484/stream/singtel/asianet/master.m3u8?u=singtel&p=
+
+#EXTINF:103 group-title="singtel" tvg-id="asianetmovies" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Asianet Movies [singtel]
+http://192.168.68.119:18484/stream/singtel/asianetmovies/master.m3u8?u=singtel&p=
+
+#EXTINF:104 group-title="singtel" tvg-id="sethindi" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",SET (HINDI) [singtel]
+http://192.168.68.119:18484/stream/singtel/sethindi/master.m3u8?u=singtel&p=
+
+#EXTINF:105 group-title="singtel" tvg-id="zeetv" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Zee TV [singtel]
+http://192.168.68.119:18484/stream/singtel/zeetv/master.m3u8?u=singtel&p=
+
+#EXTINF:106 group-title="singtel" tvg-id="sabtv" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",SAB TV [singtel]
+http://192.168.68.119:18484/stream/singtel/sabtv/master.m3u8?u=singtel&p=
+
+#EXTINF:107 group-title="singtel" tvg-id="colors" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Colors [singtel]
+http://192.168.68.119:18484/stream/singtel/colors/master.m3u8?u=singtel&p=
+
+#EXTINF:108 group-title="singtel" tvg-id="starbharat" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Star Bharat [singtel]
+http://192.168.68.119:18484/stream/singtel/starbharat/master.m3u8?u=singtel&p=
+
+#EXTINF:109 group-title="singtel" tvg-id="starplus" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",STAR Plus [singtel]
+http://192.168.68.119:18484/stream/singtel/starplus/master.m3u8?u=singtel&p=
+
+#EXTINF:110 group-title="singtel" tvg-id="mtvindia" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",MTV India [singtel]
+http://192.168.68.119:18484/stream/singtel/mtvindia/master.m3u8?u=singtel&p=
+
+#EXTINF:111 group-title="singtel" tvg-id="stargold" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",STAR Gold [singtel]
+http://192.168.68.119:18484/stream/singtel/stargold/master.m3u8?u=singtel&p=
+
+#EXTINF:112 group-title="singtel" tvg-id="sonymax" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Sony MAX [singtel]
+http://192.168.68.119:18484/stream/singtel/sonymax/master.m3u8?u=singtel&p=
+
+#EXTINF:113 group-title="singtel" tvg-id="maamovies" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",maa movies [singtel]
+http://192.168.68.119:18484/stream/singtel/maamovies/master.m3u8?u=singtel&p=
+
+#EXTINF:114 group-title="singtel" tvg-id="starmaa" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Star Maa [singtel]
+http://192.168.68.119:18484/stream/singtel/starmaa/master.m3u8?u=singtel&p=
+
+#EXTINF:115 group-title="singtel" tvg-id="timesnow" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Times Now [singtel]
+http://192.168.68.119:18484/stream/singtel/timesnow/master.m3u8?u=singtel&p=
+
+#EXTINF:116 group-title="singtel" tvg-id="zoomtv" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Zoom TV [singtel]
+http://192.168.68.119:18484/stream/singtel/zoomtv/master.m3u8?u=singtel&p=
+
+#EXTINF:117 group-title="singtel" tvg-id="wion" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",WION [singtel]
+http://192.168.68.119:18484/stream/singtel/wion/master.m3u8?u=singtel&p=
+
+#EXTINF:118 group-title="singtel" tvg-id="nhkworldpremiumhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",NHK World Premium HD [singtel]
+http://192.168.68.119:18484/stream/singtel/nhkworldpremiumhd/master.m3u8?u=singtel&p=
+
+#EXTINF:119 group-title="singtel" tvg-id="france24french" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",France 24 (French) [singtel]
+http://192.168.68.119:18484/stream/singtel/france24french/master.m3u8?u=singtel&p=
+
+#EXTINF:120 group-title="singtel" tvg-id="gmapinoytv" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",GMA Pinoy TV [singtel]
+http://192.168.68.119:18484/stream/singtel/gmapinoytv/master.m3u8?u=singtel&p=
+
+#EXTINF:121 group-title="singtel" tvg-id="gmalifetv" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",GMA Life TV [singtel]
+http://192.168.68.119:18484/stream/singtel/gmalifetv/master.m3u8?u=singtel&p=
+
+#EXTINF:122 group-title="singtel" tvg-id="gmanewstvintl" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",GMA News TV Intl [singtel]
+http://192.168.68.119:18484/stream/singtel/gmanewstvintl/master.m3u8?u=singtel&p=
+
+#EXTINF:123 group-title="singtel" tvg-id="cinemaoneglobal" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",Cinema One Global [singtel]
+http://192.168.68.119:18484/stream/singtel/cinemaoneglobal/master.m3u8?u=singtel&p=
+
+#EXTINF:124 group-title="singtel" tvg-id="thefilipinochhd" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",The Filipino Ch (HD) [singtel]
+http://192.168.68.119:18484/stream/singtel/thefilipinochhd/master.m3u8?u=singtel&p=
+
+#EXTINF:125 group-title="singtel" tvg-id="abscbnnewschannel" tvg-logo="" provider="singtel" provider-logo="" provider-type="iptv",ABS-CBN News Channel [singtel]
+http://192.168.68.119:18484/stream/singtel/abscbnnewschannel/master.m3u8?u=singtel&p=
+
